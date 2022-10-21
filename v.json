@@ -37,6 +37,16 @@
             "quickSearch": 1,
             "filterable": 1
         },
+	{
+           "key": "py_cctv",
+           "name": "❤️爱央视（PY)",
+           "type": 3,
+	   "api": "py_cctv",
+	   "searchable": 0,
+	   "quickSearch": 0,
+	   "filterable": 1,
+	   "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/cctv.py"
+	},
         {
             "key": "360_spider",
             "name": "🌈360影视",
