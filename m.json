@@ -20,14 +20,14 @@
             "filterable": 1
         },
 	{
-            "key": "T4聚合",
-            "name": "🧆豆瓣榜单",
-            "type": 4,
-            "api": "https://t4.secan.icu/vod?sites=all&ali_token=3779824041f446739219805f08431947&timeout=5",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },   
+	    "key":"T4_douban",
+	    "name":"🧆影视推荐",
+	    "type":4,
+	    "api":"http://top.fuqizhishi.com/vod",
+	    "searchable":1,
+	    "quickSearch":1,
+	    "filterable":1
+	},  
         {
             "key": "Kuaikan",
             "name": "🙈快看影视",
@@ -65,7 +65,7 @@
             "filterable": 1
         },
         {
-            "key": "csp_xpNmys",
+            "key": "csp_Nmys",
             "name": "👨‍🌾农民影视",
             "type": 3,
             "api": "csp_Nmys",
