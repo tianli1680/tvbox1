@@ -270,34 +270,6 @@
             "quickSearch": 1,
             "filterable": 1
         },
-	{
-            "key": "Lib",
-            "name": "Libvio(爬虫)",
-            "type": 3,
-            "api": "csp_Lib",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },  
-	{
-            "key": "IKan",
-            "name": "爱看(爬虫)",
-            "type":3,
-            "api":"csp_IKan",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        }, 
-        {
-            "key": "Zjdr",
-            "name": "追剧达人(爬虫)",
-            "type":3,
-            "api": "csp_Zjdr",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-	    
         {
             "name": "💋293视频",
             "key": "csp_SP293",
