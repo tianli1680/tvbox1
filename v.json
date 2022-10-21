@@ -27,7 +27,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },    
+        },   
+	{
+	    "key":"T4_douban",
+	    "name":"🧆影视推荐(T4)",
+	    "type":4,
+	    "api":"http://top.fuqizhishi.com/vod",
+	    "searchable":1,
+	    "quickSearch":1,
+	    "filterable":1
+	},
         {
             "key": "Kuaikan",
             "name": "🙈快看影视",
