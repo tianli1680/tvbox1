@@ -1425,17 +1425,17 @@
             "url": "Sequence"
         },
         {
-            "name": "hxys0",
+            "name": "hxys1",
             "type": 0,
             "url": "https://hxys.tv/bfq/?url="
         },
 	{
-            "name": "战狼1",
+            "name": "战狼2",
             "type": 0,
             "url": "https://jx.zhanlangbu.com/?url="
         },
         {
-            "name": "酷云2",
+            "name": "酷云3",
             "url": "http://101.34.67.237:5705/parse/api/酷云.js?url=",
             "type": 1,
             "ext": {
@@ -1469,20 +1469,15 @@
             }
         },
 	{
-            "name": "fositv3",
+            "name": "fositv4",
             "type": 0,
             "url": "https://play.fositv.com/?url="
         },
 	{
-	    "name": "云you4",
+	    "name": "云you5",
 	    "type": 1,
 	    "url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=bfijlnovBCEGHJTV09&url="
 	},
-        {
-            "name": "fuqi5",
-            "type": 1,
-            "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
-        },
         {
             "name": "okjx6",
             "type": 0,
