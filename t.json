@@ -28,6 +28,15 @@
             "filterable": 1
         },
 	{
+            "key": "IKan",
+            "name": "爱看(爬虫)",
+            "type":3,
+            "api":"csp_IKan",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+	{
            "key": "py_cctv",
            "name": "❤️爱央视（PY)",
            "type": 3,
