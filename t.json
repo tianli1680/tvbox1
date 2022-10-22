@@ -91,7 +91,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/Nmys.json"
+            "ext": "./json/Nmys.json",
+	    "jar":"/jar/plus.jar;md5;0F78A28B6823496FE883D7E3B1734411"
         },
         {
             "key": "APPTT",
