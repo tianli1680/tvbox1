@@ -1474,7 +1474,7 @@
             "url": "https://play.fositv.com/?url="
         },
 	{
-	    "name": "云you5",
+	    "name": "chaoli5",
 	    "type": 1,
 	    "url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=bfijlnovBCEGHJTV09&url="
 	},
@@ -1483,21 +1483,21 @@
             "type": 0,
             "url": "https://okjx.cc/?url="
         },
-        {
-            "name": "fuqi7",
+	{
+	    "name": "keyu7",
             "type": 1,
-            "url": "https://play.fuqizhishi.com/jx1/API.php?appkey=iiiixiaobai&url="
-        },
+	    "url": "http://newjiexi.gotka.top/keyu3.php?url="
+	},
         {
             "name": "chaloli8",
             "type": 1,
             "url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=klmnqADJQRUV024678&url="
         },
-        {
-            "name": "fuqi9",
-            "type": 1,
-            "url": "https://play.fuqizhishi.com/jx/API.php?appkey=iiiixiaobai&url="
-        },
+	{
+	   "name": "ckflv9",
+	   "type": 1,
+	   "url": "http://api.ckflv.cn/?url="
+	},
         {
             "name": "江湖10",
             "url": "http://101.34.67.237:5705/parse/api/江湖.js?url=",
