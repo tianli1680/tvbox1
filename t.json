@@ -29,7 +29,7 @@
         },
 	{
             "key": "IKan",
-            "name": "爱看(爬虫)",
+            "name": "😎爱看视频",
             "type":3,
             "api":"csp_IKan",
             "searchable":1,
@@ -39,7 +39,7 @@
         },
 	{
 	    "key":"Zjdr",
-	    "name":"🌐追剧达人",
+	    "name":"🏃追剧达人",
 	    "type":3,
 	    "api":"csp_Zjdr",
 	    "searchable":1,
