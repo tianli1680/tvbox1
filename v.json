@@ -1425,18 +1425,18 @@
             "type": 2,
             "url": "Sequence"
         },
-        {
-            "name": "hxys0",
+         {
+            "name": "多多①线",
             "type": 0,
             "url": "https://hxys.tv/bfq/?url="
         },
 	{
-            "name": "战狼1",
+            "name": "多多②线",
             "type": 0,
             "url": "https://jx.zhanlangbu.com/?url="
         },
         {
-            "name": "酷云2",
+            "name": "多多③线",
             "url": "http://101.34.67.237:5705/parse/api/酷云.js?url=",
             "type": 1,
             "ext": {
@@ -1470,42 +1470,39 @@
             }
         },
 	{
-            "name": "fositv3",
+            "name": "多多④线",
             "type": 0,
             "url": "https://play.fositv.com/?url="
         },
 	{
-	    "name": "云you4",
+	    "name": "多多⑤线",
 	    "type": 1,
 	    "url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=bfijlnovBCEGHJTV09&url="
 	},
         {
-            "name": "fuqi5",
-            "type": 1,
-            "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
-        },
-        {
-            "name": "okjx6",
+            "name": "多多⑥线",
             "type": 0,
             "url": "https://okjx.cc/?url="
         },
-        {
-            "name": "fuqi7",
+	{
+	    "name": "多多⑦线",
             "type": 1,
-            "url": "https://play.fuqizhishi.com/jx1/API.php?appkey=iiiixiaobai&url="
-        },
+	    "url": "http://newjiexi.gotka.top/keyu3.php?url="
+	},
+       {
+	   "name": "多多⑧线",
+	   "type": 1,
+	   "url": "https://svip.rongxingvr.top/api/?key=4gb6ui9qfap4kLrvb2&url=",
+	   "ext": {"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]
+	}    
+	}, 
+	{
+	   "name": "多多⑨线",
+	   "type": 1,
+	   "url": "http://api.ckflv.cn/?url="
+	},
         {
-            "name": "chaloli8",
-            "type": 1,
-            "url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=klmnqADJQRUV024678&url="
-        },
-        {
-            "name": "fuqi9",
-            "type": 1,
-            "url": "https://play.fuqizhishi.com/jx/API.php?appkey=iiiixiaobai&url="
-        },
-        {
-            "name": "江湖10",
+            "name": "多多⑩线",
             "url": "http://101.34.67.237:5705/parse/api/江湖.js?url=",
             "type": 1,
             "ext": {
@@ -1539,7 +1536,7 @@
             }
         },
         {
-            "name": "鸿途11",
+            "name": "多多⑪线",
             "url": "http://101.34.67.237:5705/parse/api/鸿途.js?url=",
             "type": 1,
             "ext": {
@@ -1573,7 +1570,7 @@
             }
         },
         {
-            "name": "飞跃12",
+            "name": "多多⑫线",
             "url": "http://101.34.67.237:5705/parse/api/飞跃.js?url=",
             "type": 1,
             "ext": {
@@ -1607,7 +1604,7 @@
             }
         },
         {
-            "name": "无名13",
+            "name": "多多⑬线",
             "url": "http://101.34.67.237:5705/parse/api/无名.js?url=",
             "type": 1,
             "ext": {
@@ -1641,7 +1638,7 @@
             }
         },
         {
-            "name": "cyu14",
+            "name": "多多⑭线",
             "url": "https://vip.cyu0.cn/home/api?type=ys&uid=1353484&key=efopqwABCLOTVYZ278&url=",
             "type": 1,
             "ext": {
@@ -1675,7 +1672,7 @@
             }
         },
         {
-            "name": "bynote15",
+            "name": "多多⑮线",
             "url": "https://jx.bynote.top/API.php?url=",
             "type": 1,
             "ext": {
@@ -1709,7 +1706,7 @@
             }
         },
         {
-            "name": "猫咪16",
+            "name": "多多⑯线",
             "type": 1,
             "url": "http://api.xiaomaomi.tv/home/api?type=ys&uid=8728968&key=cdkmqvyzFIJPRT2349&url=",
             "ext": {
@@ -1744,7 +1741,7 @@
             }
         },
         {
-            "name": "vip17",
+            "name": "多多⑰线",
             "url": "http://101.34.67.237:5705/parse/api/vip.js?url=",
             "type": 1,
             "ext": {
@@ -1778,7 +1775,7 @@
             }
         },
         {
-            "name": "dyg18",
+            "name": "多多⑱线",
             "url": "http://101.34.67.237:5705/parse/api/dyg.js?url=",
             "type": 1,
             "ext": {
@@ -1812,7 +1809,7 @@
             }
         },
         {
-            "name": "keyu19",
+            "name": "多多⑲线",
             "type": 1,
             "url": "http://newjiexi.gotka.top/keyu3.php?url=",
             "ext": {
@@ -1841,11 +1838,11 @@
             }
         },
         {
-            "name": "江湖20",
+            "name": "多多⑳线",
             "type": 1,
             "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
         }
-    ],
+	],
     "flags": [
         "youku",
         "qq",
