@@ -1486,33 +1486,13 @@
             "type": 0,
             "url": "https://hxys.tv/bfq/?url="
         },
-        {
-            "name": "fuqi2",
-            "type": 1,
-            "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
-        },
-        {
-            "name": "fositv3",
-            "type": 0,
-            "url": "https://play.fositv.com/?url="
-        },
-        {
-            "name": "okjx4",
-            "type": 0,
-            "url": "https://okjx.cc/?url="
-        },
-        {
-            "name": "fuqi5",
-            "type": 1,
-            "url": "https://play.fuqizhishi.com/jx1/API.php?appkey=iiiixiaobai&url="
-        },
-        {
-            "name": "战狼6",
+	{
+            "name": "战狼2",
             "type": 0,
             "url": "https://jx.zhanlangbu.com/?url="
         },
         {
-            "name": "酷云7",
+            "name": "酷云3",
             "url": "http://101.34.67.237:5705/parse/api/酷云.js?url=",
             "type": 1,
             "ext": {
@@ -1544,6 +1524,26 @@
                     "User-Agent": "Mozilla/5.0"
                 }
             }
+        },
+        {
+            "name": "fuqi4",
+            "type": 1,
+            "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
+        },
+        {
+            "name": "fositv5",
+            "type": 0,
+            "url": "https://play.fositv.com/?url="
+        },
+        {
+            "name": "okjx6",
+            "type": 0,
+            "url": "https://okjx.cc/?url="
+        },
+        {
+            "name": "fuqi7",
+            "type": 1,
+            "url": "https://play.fuqizhishi.com/jx1/API.php?appkey=iiiixiaobai&url="
         },
         {
             "name": "chaloli8",
