@@ -1435,10 +1435,15 @@
             "url": "Sequence"
         },
         {
-            "name": "hxys1",
+            "name": "hxys0",
             "type": 0,
             "url": "https://hxys.tv/bfq/?url="
         },
+	{
+	    "name": "云you1",
+	    "type": 1,
+	    "url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=bfijlnovBCEGHJTV09&url="
+	},
 	{
             "name": "战狼2",
             "type": 0,
