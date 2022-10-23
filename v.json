@@ -21,7 +21,7 @@
         },  
 	{
 	    "key":"T4_douban",
-	    "name":"🦚多多推荐",
+	    "name":"🧸多多推荐",
 	    "type":4,
 	    "api":"http://top.fuqizhishi.com/vod",
 	    "searchable":1,
