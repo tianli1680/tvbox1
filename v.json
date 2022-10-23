@@ -1343,7 +1343,7 @@
             "quickSearch": 0
         }
     ],
-    "spider": "./jar/duo.jar;md5;f6abd495ea859880f7e2d97010bae00d",
+    "spider": "https://raw.iqiq.io/leevi0709/duo/main/jar/duo.jar;md5;f6abd495ea859880f7e2d97010bae00d",
     "wallpaper": "https://www.yydsys.top/api.php",
     "lives": [
         {
