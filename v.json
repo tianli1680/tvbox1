@@ -12,7 +12,7 @@
         },  
 	{
 	    "key":"T4_douban",
-	    "name":"🧆多多推荐",
+	    "name":"🦚多多推荐",
 	    "type":4,
 	    "api":"http://top.fuqizhishi.com/vod",
 	    "searchable":1,
@@ -30,7 +30,7 @@
         },
 	{
            "key": "py_cctv",
-           "name": "❤️爱央视（PY)",
+           "name": "❤️爱央视PY",
            "type": 3,
 	   "api": "py_cctv",
 	   "searchable": 0,
