@@ -28,6 +28,16 @@
 	    "quickSearch":1,
 	    "filterable":1
 	},
+	{
+	    "key": "搭配",
+	    "name": "💃多多搭配",
+	    "type": 3,
+	    "api": "csp_Bili",
+	    "searchable": 0,
+	    "quickSearch": 0,
+	    "filterable": 1,
+	    "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/duodapei.json" 
+       },       
         {
             "key": "Kuaikan",
             "name": "🙈快看影视",
