@@ -1,15 +1,15 @@
 //大聪明友情提醒：本接口中的网络资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为方便小白使用，如有冒犯请联系删除
 {
     "sites": [
-	 {
-            "key": "apps",
-            "name": "🍀关注公众号应用多多，及时获取最新免费软件接口",
-            "type": 3,
-            "api": "apps",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        }, 
+	{
+	    "key":"T4_douban",
+	    "name":"🍀关注公众号应用多多，及时获取最新免费软件接口",
+	    "type":4,
+	    "api":"http://top.fuqizhishi.com/vod",
+	    "searchable":1,
+	    "quickSearch":1,
+	    "filterable":1
+	},
         {
             "key": "csp_Kunyu77",
             "name": "🍁多多七七",
@@ -20,15 +20,6 @@
             "filterable": 1
         },  
 	{
-	    "key":"T4_douban",
-	    "name":"🧸多多推荐",
-	    "type":4,
-	    "api":"http://top.fuqizhishi.com/vod",
-	    "searchable":1,
-	    "quickSearch":1,
-	    "filterable":1
-	},
-	{
 	    "key": "搭配",
 	    "name": "💃多多搭配",
 	    "type": 3,
@@ -38,6 +29,34 @@
 	    "filterable": 1,
 	    "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/duodapei.json" 
         },   
+	{
+            "key": "360_spider",
+            "name": "🌈360影视",
+            "api": "csp_SP360",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1
+        },
+	{
+            "key": "csp_Nmys",
+            "name": "👨‍🌾农民影视",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/Nmys.json"
+        },
+        {
+            "key": "APPTT",
+            "name": "🗺️图图影视",
+            "api": "csp_AppTT",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1
+        },
         {
             "key": "Kuaikan",
             "name": "🙈快看影视",
@@ -58,15 +77,6 @@
 	   "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/cctv.py"
 	},
         {
-            "key": "360_spider",
-            "name": "🌈360影视",
-            "api": "csp_SP360",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
-        },
-        {
             "key": "Lezhu_spider",
             "name": "🐷乐猪影视",
             "api": "csp_Lezhu",
@@ -83,25 +93,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_Nmys",
-            "name": "👨‍🌾农民影视",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/Nmys.json"
-        },
-        {
-            "key": "APPTT",
-            "name": "🗺️图图影视",
-            "api": "csp_AppTT",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
         },
         {
             "key": "csp_XBPQ极品影视",
