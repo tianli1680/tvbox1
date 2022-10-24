@@ -1371,29 +1371,34 @@
             ]
         }
     ],
-     "parses": [
-        {
-            "name": "解析聚合",
-            "type": 3,
-            "url": "Demo"
-        },
-        {
-            "name": "Json并发",
-            "type": 2,
-            "url": "Parallel"
-        },
-        {
-            "name": "Json轮询",
-            "type": 2,
-            "url": "Sequence"
-        },
-         {
-            "name": "多多①线",
-            "type": 0,
-            "url": "https://hxys.tv/bfq/?url="
-        },
-   {
+    "parses": [
+    {
+      "name": "解析聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "Json并发",
+      "type": 2,
+      "url": "Parallel"
+    },
+    {
+      "name": "Json轮询",
+      "type": 2,
+      "url": "Sequence"
+    },
+    {
+      "name": "多多①线",
+      "type": 0,
+      "url": "https://hxys.tv/bfq/?url="
+    },
+    {
       "name": "多多②线",
+      "type": 0,
+      "url": "https://jx.zhanlangbu.com/?url="
+    },
+    {
+      "name": "多多③线",
       "type": 0,
       "url": "https://jx.zhanlangbu.com/?url=",
       "ext": {
@@ -1426,50 +1431,45 @@
         }
       }
     },
-        {
-            "name": "多多③线",
-            "url": "http://101.34.67.237:5705/parse/api/酷云.js?url=",
-            "type": 1,
-            "ext": {
-                "flag": [
-                    "qiyi",
-                    "imgo",
-                    "爱奇艺",
-                    "奇艺",
-                    "qq",
-                    "腾讯",
-                    "youku",
-                    "优酷",
-                    "pptv",
-                    "PPTV",
-                    "letv",
-                    "乐视",
-                    "leshi",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩",
-                    "mgtv",
-                    "芒果",
-                    "sohu",
-                    "xigua",
-                    "fun",
-                    "风行"
-                ],
-                "header": {
-                    "User-Agent": "Mozilla/5.0"
-                }
-            }
-        },
-	{
-            "name": "多多④线",
-            "type": 0,
-            "url": "https://play.fositv.com/?url="
-        },
-	{
-	    "name": "多多⑤线",
-	    "type": 1,
-	    "url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=bfijlnovBCEGHJTV09&url="
-	},
+    {
+      "name": "多多④线",
+      "type": 1,
+      "url": "http://101.34.67.237:5705/parse/api/酷云.js?url=",
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    },
+    {
+      "name": "多多⑤线",
+      "type": 0,
+      "url": "https://play.fositv.com/?url="
+    },
         {
             "name": "多多⑥线",
             "type": 0,
