@@ -5,7 +5,7 @@
     "sites": [
 	 {
 	    "key":"T4_douban",
-	    "name":"🍀公众号：应用多多，更新时间：2022/10/24",
+	    "name":"🍀公众号：应用多多，更新时间：2022/10/25",
 	    "type":4,
 	    "api":"http://top.fuqizhishi.com/vod",
 	    "searchable":1,
@@ -51,13 +51,23 @@
         },
         {
             "key": "Kuaikan",
-            "name": "🙈快看影视",
+            "name": "🌋快看影视",
             "type": 3,
             "api": "csp_Kuaikan",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
+	{
+	   "key":"csp_xpath_789kp",
+	   "name":"🧜‍♀数字影院",
+           "type":3,
+	   "api":"csp_XPathMacFilter",
+	   "searchable":1,
+	   "quickSearch":1,
+	   "filterable":1,
+	   "ext":"https://raw.iqiq.io/leevi0709/duo/main/json/789ba.json"
+	},
 	{
            "key": "py_cctv",
            "name": "❤️爱央视PY",
