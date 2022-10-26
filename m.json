@@ -7,7 +7,7 @@
 	    "key":"T4_douban",
 	    "name":"🍀公众号：应用多多，更新时间：2022/10/26",
 	    "type":4,
-	    "api":"https://t4.secan.icu/vod?sites=all&ali_token=f6fcd2d1c0e54601805413721d89e0ca&timeout=5",
+	    "api":"https://leevi0321.gitee.io/api/vod.json",
 	    "searchable":1,
 	    "quickSearch":1,
 	    "filterable":1
