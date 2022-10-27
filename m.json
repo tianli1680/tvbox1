@@ -631,7 +631,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "3779824041f446739219805f08431947"
+            "ext": "http://刚刚.live/json/alitoken.json"
         },
         {
             "key": "Upyunso",
@@ -641,7 +641,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "3779824041f446739219805f08431947"
+            "ext": "http://刚刚.live/json/alitoken.json"
         },
          {
             "key": "zhaozy",
@@ -652,7 +652,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "3779824041f446739219805f08431947"
+            "ext": "http://刚刚.live/json/alitoken.json"
         },
          {
             "key": "AliPS",
@@ -663,7 +663,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "3779824041f446739219805f08431947"
+            "ext": "http://刚刚.live/json/alitoken.json"
         },
         {
             "key": "csp_Yiso",
@@ -673,7 +673,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "3779824041f446739219805f08431947",
+            "ext": "http://刚刚.live/json/alitoken.json",
             "jar": "https://gitlab.com/duomv/duo/-/raw/main/json/yisozc.jar;md5;8d29a86d985a54225af22a82bb9328ee"
         },
         {
@@ -684,7 +684,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "3779824041f446739219805f08431947"
+            "ext": "http://刚刚.live/json/alitoken.json"
         },
         {
             "key": "csp_xpath_yinfans",
