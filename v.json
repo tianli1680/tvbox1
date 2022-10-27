@@ -99,14 +99,6 @@
 	   "filterable": 1,
 	   "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/cctv.py"
 	},
-    {
-         "name":"📡線上Txt",
-         "type":0, 
-         "url":"http://home.jundie.top:81/Cat/tv/live.txt",
-         "logo":"",
-         "epg":"http://epg.51zmt.top:8000/api/diyp/",
-         "ua":""
-      },
 	{
             "key": "csp_xBPQ_真不卡",
             "name": "🚀真不卡XB",
