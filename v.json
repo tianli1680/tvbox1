@@ -90,9 +90,9 @@
 	   "ext":"https://gitlab.com/duomv/duo/-/raw/main/json/789ba.json"
 	},
 	{
-           "key": "py_cctv",
-           "name": "❤️爱央视PY",
-           "type": 3,
+        "key": "py_cctv",
+        "name": "❤️爱央视PY",
+        "type": 3,
 	   "api": "py_cctv",
 	   "searchable": 0,
 	   "quickSearch": 0,
@@ -105,7 +105,7 @@
          "url":"http://home.jundie.top:81/Cat/tv/live.txt",
          "logo":"",
          "epg":"http://epg.51zmt.top:8000/api/diyp/",
-     "ua":""
+         "ua":""
       },
 	{
             "key": "csp_xBPQ_真不卡",
