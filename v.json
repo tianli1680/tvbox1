@@ -293,6 +293,18 @@
             "filterable": 0,
             "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/LIBVIO.json"
         },
+ {
+      "key": "4K",
+      "name": "4K影视(爬虫)",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "playerType": "1",
+      "jar": "http://shuyuan.miaogongzi.net/shuyuan/1666791315.txt",
+      "ext": "https://agit.ai/xiaohewanwan/atest/raw/branch/master/4kvm.json"
+    },
         {
             "key": "csp_Bd",
             "name": "📯哔嘀影视",
