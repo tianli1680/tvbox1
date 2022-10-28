@@ -708,6 +708,9 @@ CCTV14,http://123.6.9.146/live/jz-cctv-14/live.m3u8
 深圳财经,http://113.101.124.234:808/hls/105/index.m3u8$高清1080P
 深圳财经,http://113.101.124.246:808/hls/105/index.m3u8$高清1080P
 深圳蛇口,http://218.17.99.211:82/hls/d4encs75.m3u8$高清1080P
+普宁综合,http://wtv.weetai.cn/iptv/2022/tyzb31.php?id=gdjypn$高清720P
+普宁综合,http://wtv.weetai.cn/iptv/2022/tyzb37.php?id=gdjypn$高清720P 
+普宁综合,http://wtv.weetai.cn/iptv/2022/tyzb38.php?id=pnzh$高清720P
 佛山综合,http://121.12.115.112/xmplay.fstv.com.cn/live/xingmu20211111163434G0Bw.m3u8$高清720P
 佛山综合,http://121.12.115.118/xmplay.fstv.com.cn/live/xingmu20211111163434G0Bw.m3u8$高清720P
 佛山影视,http://121.12.115.112/xmplay.fstv.com.cn/live/xingmu20211111163523oBdp.m3u8$高清720P
