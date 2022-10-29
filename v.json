@@ -208,7 +208,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-            "jar": "https://gitlab.com/duomv/duo/-/raw/main/jar/cs.jar;md5;2FA006C7A423A228BB32806D3531A1FD" 
+            "jar": "https://gitlab.com/duomv/duo/-/raw/main/jar/tang.jar" 
 		},
         {
             "key": "csp_剧荒",
