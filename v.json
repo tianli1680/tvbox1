@@ -295,6 +295,16 @@
             "filterable":1,
             "ext":"https://gitlab.com/duomv/duo/-/raw/main/json/厂长资源.json"
          }, 
+         {
+             "key":"csp_xp_完美看看",
+             "name":"👯‍♀完美看看",
+             "type": 3,
+             "api": "csp_XPathMac",
+             "searchable": 1,
+             "quickSearch": 1,
+             "filterable": 0,
+             "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/wmkankan.json"
+        },
         {
             "key": "LIBVIO",
             "name": "🍲LIBVIO",
