@@ -79,27 +79,38 @@
             "quickSearch": 1,
             "filterable": 1
         },
-	{
-	   "key":"csp_xpath_789kp",
-	   "name":"🎗️数字影院",
-           "type":3,
-	   "api":"csp_XPathMacFilter",
-	   "searchable":1,
-	   "quickSearch":1,
-	   "filterable":1,
-	   "ext":"https://gitlab.com/duomv/duo/-/raw/main/json/789ba.json"
-	},
-	{
+        {
+            "key": "csp_XYQ_lu1",
+            "name": "️🖥️电视直播",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://47.242.90.42:8888/down/OMDxA2nkhIWy",
+            "jar":"http://47.242.90.42:8888/down/M23BLtdPg49m"
+            },
+	   {
+	        "key":"csp_xpath_789kp",
+	        "name":"🎗️数字影院",
+            "type":3,
+	        "api":"csp_XPathMacFilter",
+	        "searchable":1,
+	        "quickSearch":1,
+	        "filterable":1,
+	        "ext":"https://gitlab.com/duomv/duo/-/raw/main/json/789ba.json"
+	    },
+	    {
            "key": "py_cctv",
            "name": "❤️爱央视PY",
            "type": 3,
-	   "api": "py_cctv",
-	   "searchable": 0,
-	   "quickSearch": 0,
-	   "filterable": 1,
-	   "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/cctv.py"
-	},
-	{
+	       "api": "py_cctv",
+	       "searchable": 0,
+	       "quickSearch": 0,
+	       "filterable": 1,
+	       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/cctv.py"
+	    },
+	   {
             "key": "csp_xBPQ_真不卡",
             "name": "🚀真不卡XB",
             "type": 3,
