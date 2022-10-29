@@ -325,15 +325,16 @@
              "filterable": 0,
              "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/wmkankan.json"
         },
+
         {
-            "key": "LIBVIO",
-            "name": "🍲LIBVIO",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/LIBVIO.json"
+             "key": "csp_xb_lib",
+             "name": "🍲LIBVIO",
+             "type": 3,
+             "api": "csp_XBiu",
+             "searchable": 1,
+             "quickSearch": 1,
+             "filterable": 0,
+             "ext": " https://www.libvio.me/type/{cateId}-{catePg}.html"
         },
         {
             "key": "csp_Bd",
