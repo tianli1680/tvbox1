@@ -63,7 +63,7 @@
         },  
         {
             "key":"csp_Nkdy",
-            "name":"⏺南柯",
+            "name":"🎨南柯电影",
             "type":3,
             "api":"csp_Nkdy",
             "searchable":1,
@@ -226,7 +226,7 @@
         },
         {
             "key":"csp_Ysgc",
-            "name":"影视工厂",
+            "name":"🎬️影视工厂",
             "type":3,
             "api":"csp_Ysgc",
             "searchable":1,
