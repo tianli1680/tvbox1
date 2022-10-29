@@ -60,7 +60,16 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"https://gitlab.com/duomv/duo/-/raw/main/json/duboku.json"
-        },   
+        },  
+        {
+            "key":"csp_Nkdy",
+            "name":"⏺南柯",
+            "type":3,
+            "api":"csp_Nkdy",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        }, 
         {
             "key": "APPTT",
             "name": "🗺️图图影视",
@@ -180,14 +189,13 @@
             "filterable": 1
         },
         {
-            "key": "低端",
-            "name": "🐞低端影视",
-            "api": "csp_Ddrk",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "click": "ddys.tv;#vjsp > button"
+            "key":"csp_DiDuan" ,
+            "name":"🐞低端影视",
+            "type":3,
+            "api":"csp_Ddrk",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0
         },
         {
             "key": "csp_dd5555",
@@ -215,6 +223,15 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key":"csp_Ysgc",
+            "name":"影视工厂",
+            "type":3,
+            "api":"csp_Ysgc",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
         },
         {
             "key": "csp_Zxzj",
@@ -1419,7 +1436,7 @@
             "quickSearch": 0
         }
     ],
-    "spider": "https://gitlab.com/duomv/duo/-/raw/main/jar/duo.jar;md5;28727B211C6545331D34F65551C4F89C",
+    "spider": "https://gitlab.com/duomv/duo/-/raw/main/jar/duoduo.jar;md5;34D8FC113483ADDD0C91DEB288B25E32",
     "wallpaper": "https://www.yydsys.top/api.php",
     "lives": [
         {
@@ -2131,3 +2148,4 @@
         "cms.qdwght.com"
     ]
 }
+
