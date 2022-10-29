@@ -189,13 +189,16 @@
             "filterable": 1
         },
         {
-            "key":"csp_DiDuan" ,
+            
+            "key":"csp_Ddys",
             "name":"🐞低端影视",
             "type":3,
-            "api":"csp_Ddrk",
+            "api":"csp_Dora",
             "searchable":1,
             "quickSearch":1,
-            "filterable":0
+            "filterable":1,
+            "ext":"1cc92323700909e7d46623bc85b958d6",
+            "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/cs.jar"
         },
         {
             "key": "csp_dd5555",
@@ -325,7 +328,6 @@
              "filterable": 0,
              "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/wmkankan.json"
         },
-
         {
              "key": "csp_xb_lib",
              "name": "🍲LIBVIO",
