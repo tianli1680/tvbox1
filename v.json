@@ -195,9 +195,9 @@
       "ext": "1cc92323700909e7d46623bc85b958d6"
     },
     {
-      "key": "csp_dd5555",
-      "name": "🥇555影视",
-      "api": "csp_Dy555",
+      "key":"csp_Dy555",
+      "name":"🥇555影视",
+      "api":"csp_Dy555",
       "type": 3,
       "filterable": 1,
       "quickSearch": 1,
