@@ -20,7 +20,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },  
+        },    
 	{
             "key": "360_spider",
             "name": "🌈360影视",
@@ -30,7 +30,7 @@
             "quickSearch": 1,
             "searchable": 1
         },
-       {
+	{
             "key": "csp_Nmys",
             "name": "👨‍🌾农民影视",
             "type": 3,
@@ -40,7 +40,7 @@
             "filterable": 1,
             "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/Nmys.json"
         },
-        {
+       {
 	        "key":"csp_xBPQ_电影先生",
 	        "name": "🤵电影先生",
 	        "type": 3,
@@ -60,7 +60,16 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"https://gitlab.com/duomv/duo/-/raw/main/json/duboku.json"
-        },     
+        },  
+        {
+            "key":"csp_Nkdy",
+            "name":"⏺南柯",
+            "type":3,
+            "api":"csp_Nkdy",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        }, 
         {
             "key": "APPTT",
             "name": "🗺️图图影视",
@@ -79,7 +88,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
+	   {
 	        "key":"csp_xpath_789kp",
 	        "name":"🎗️数字影院",
             "type":3,
@@ -88,7 +97,7 @@
 	        "quickSearch":1,
 	        "filterable":1,
 	        "ext":"https://gitlab.com/duomv/duo/-/raw/main/json/789ba.json"
-	    },
+	   },
     {
         "key": "csp_XYQ_lu1",
         "name": "️🖥️电视直播",
@@ -100,17 +109,18 @@
         "ext":"https://gitlab.com/duomv/duo/-/raw/main/json/ningmeng.json",
         "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/XYQPlugin_1023.jar"
     },
-	    {
-           "key": "py_cctv",
-           "name": "❤️爱央视PY",
-           "type": 3,
-	       "api": "py_cctv",
-	       "searchable": 0,
-	       "quickSearch": 0,
-	       "filterable": 1,
-	       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/cctv.py"
-	    },
-	   {
+
+	{
+        "key": "py_cctv",
+        "name": "❤️爱央视PY",
+        "type": 3,
+	   "api": "py_cctv",
+	   "searchable": 0,
+	   "quickSearch": 0,
+	   "filterable": 1,
+	   "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/cctv.py"
+	},
+	{
             "key": "csp_xBPQ_真不卡",
             "name": "🚀真不卡XB",
             "type": 3,
@@ -147,7 +157,7 @@
 	    "quickSearch": 0,
 	    "filterable": 1,
 	    "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/duodapei.json" 
-        },       
+        }, 
         {
             "key": "csp_XBPQ极品影视",
             "name": "🌻极品影视",
@@ -179,14 +189,13 @@
             "filterable": 1
         },
         {
-            "key": "低端",
-            "name": "🐞低端影视",
-            "api": "csp_Ddrk",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "click": "ddys.tv;#vjsp > button"
+            "key":"csp_DiDuan" ,
+            "name":"🐞低端影视",
+            "type":3,
+            "api":"csp_Ddrk",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0
         },
         {
             "key": "csp_dd5555",
@@ -214,6 +223,15 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key":"csp_Ysgc",
+            "name":"影视工厂",
+            "type":3,
+            "api":"csp_Ysgc",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
         },
         {
             "key": "csp_Zxzj",
@@ -413,8 +431,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/tingshu.json"
-        },
+            "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/tingshu.json"},
         {
             "key": "17kan",
             "name": "⚽🏀17看球",
@@ -434,7 +451,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://gitlab.com/duomv/duo/-/raw/main/js/88%E7%9C%8B%E7%90%83.js"
-        },
+            },
         {
             "key": "csp_XYQBiu_310直播",
             "name": "⚽🏀310直播",
