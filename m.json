@@ -198,7 +198,7 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"1cc92323700909e7d46623bc85b958d6",
-            "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/cs.jar"
+            "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/cs.jar;md5;2FA006C7A423A228BB32806D3531A1FD"
         },
         {
             "key": "csp_dd5555",
@@ -329,14 +329,14 @@
              "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/wmkankan.json"
         },
         {
-            "key": "LIBVIO",
-            "name": "🍲LIBVIO",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/LIBVIO.json"
+             "key": "csp_xb_lib",
+             "name": "🍲LIBVIO",
+             "type": 3,
+             "api": "csp_XBiu",
+             "searchable": 1,
+             "quickSearch": 1,
+             "filterable": 0,
+             "ext": " https://www.libvio.me/type/{cateId}-{catePg}.html"
         },
         {
             "key": "csp_Bd",
@@ -351,10 +351,12 @@
             "key": "Smdyy",
             "name": "🐎神马影院",
             "type": 3,
-            "api": "csp_Smdyy",
+            "api": "csp_Dora",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext":"16705ee9f4764be8499806f52d4bf1e7",
+            "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/cs.jar;md5;2FA006C7A423A228BB32806D3531A1FD"
         },
         {
             "key": "csp_biubiu_剧白白-蓝光",
