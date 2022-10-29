@@ -82,7 +82,7 @@
 	   {
 	        "key":"csp_xpath_789kp",
 	        "name":"🎗️数字影院",
-             "type":3,
+            "type":3,
 	        "api":"csp_XPathMacFilter",
 	        "searchable":1,
 	        "quickSearch":1,
@@ -97,8 +97,8 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0,
-        "ext": "http://47.242.90.42:8888/down/OMDxA2nkhIWy",
-        "jar":"http://47.242.90.42:8888/down/M23BLtdPg49m"
+        "ext":"https://gitlab.com/duomv/duo/-/raw/main/json/ningmeng.json",
+        "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/XYQPlugin_1023.jar"
     },
 
 	{
