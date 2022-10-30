@@ -12,6 +12,19 @@
 	    "quickSearch":1,
 	    "filterable":1
 	},
+       {
+	        "key":"csp_xBPQ_555电影",
+	        "name": "🤵电影先生",
+	        "type": 3,
+	        "api": "csp_xBPQ",
+	        "searchable": 1,
+	        "quickSearch": 0,
+	        "filterable": 0,
+	        "ext":"https://gitlab.com/duomv/duo/-/raw/main/json/555dyxbpq.json"
+        },  
+
+
+
     {"key":"csp_Ddys","name":"📺低端影视","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"1cc92323700909e7d46623bc85b958d6","jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/cs.jar"},
         {
             "key": "csp_Kunyu77",
