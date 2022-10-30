@@ -690,7 +690,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://刚刚.live/json/alitoken.json"
+      "ext": "https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
     },
     {
       "key": "Upyunso",
@@ -700,7 +700,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://刚刚.live/json/alitoken.json"
+      "ext": "https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
     },
     {
       "key": "zhaozy",
@@ -710,7 +710,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://刚刚.live/json/alitoken.json"
+      "ext": "https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
     },
     {
       "key": "AliPS",
@@ -720,7 +720,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://刚刚.live/json/alitoken.json"
+      "ext": "https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
     },
     {
       "key": "csp_Yiso",
@@ -730,7 +730,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://刚刚.live/json/alitoken.json"
+      "ext": "https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
     },
     {
       "key": "push_agent",
@@ -740,7 +740,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "http://刚刚.live/json/alitoken.json"
+      "ext": "https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
     },
     {
       "key": "csp_xpath_yinfans",
