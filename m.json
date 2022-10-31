@@ -697,24 +697,37 @@
       "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/jun97.jar;md5;BE69D0C9E96E8637BA98436236C82BF6"
     },
     {
-      "key": "Upyunso",
+      "key": "找资源",
+      "name": "🔍找资源(仅搜索)",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "playerType": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/jun97.jar;md5;BE69D0C9E96E8637BA98436236C82BF6"
+    },
+    {
+      "key": "upyunsou",
       "name": "🌤UP云搜（仅搜索）",
       "type": 3,
       "api": "csp_Upyunso",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
+      "playerType": 1,
+      "filterable": 0,
+      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/jun97.jar;md5;BE69D0C9E96E8637BA98436236C82BF6"
     },
     {
-      "key": "zhaozy",
-      "name": "🔍找资源(仅搜索)",
+      "key": "yisou",
+      "name": "🎯宜搜",
       "type": 3,
-      "api": "csp_FindZY",
+      "api": "csp_Yisou",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
+      "playerType": 1,
+      "filterable": 0,
+      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/jun97.jar;md5;BE69D0C9E96E8637BA98436236C82BF6"
     },
     {
       "key": "AliPS",
@@ -722,31 +735,24 @@
       "type": 3,
       "api": "csp_AliPS",
       "searchable": 1,
+      "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
-    },
-    {
-      "key": "csp_Yiso",
-      "name": "🎯易搜",
-      "type": 3,
-      "api": "csp_Yiso",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
+      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/jun97.jar;md5;BE69D0C9E96E8637BA98436236C82BF6"
     },
     {
       "key": "push_agent",
       "name": "📨推送",
       "type": 3,
       "api": "csp_PushAgent",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 1,
+      "filterable": 1,
+      "ext": "token;desc",
+      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/jun97.jar;md5;BE69D0C9E96E8637BA98436236C82BF6"
     },
-    {
+   {
       "key": "csp_xpath_yinfans",
       "name": "💥音范丝4K",
       "type": 3,
