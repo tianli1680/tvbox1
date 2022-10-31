@@ -12,6 +12,18 @@
       "quickSearch": 1,
       "filterable": 1
     },
+            {
+            "key": "Gitcafe",
+            "name": "小纸条(SP)",
+            "type": 3,
+            "api": "csp_Gitcafe",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/jar/ts1023.jar;md5;0817ad7a4ac2896f4ed58bae2bbc26c5",
+            "ext": "http://api.lengniuge.eu.org/al.txt"
+        },
     {
       "key": "csp_Kunyu77",
       "name": "🍁多多七七",
