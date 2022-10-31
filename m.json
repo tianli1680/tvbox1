@@ -693,8 +693,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "token;asc",
-      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/jun97.jar;md5;BE69D0C9E96E8637BA98436236C82BF6"
+      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
     },
     {
       "key": "找资源",
@@ -705,7 +704,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/jun97.jar;md5;BE69D0C9E96E8637BA98436236C82BF6"
+      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
     },
     {
       "key": "upyunsou",
@@ -716,18 +715,18 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
-      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/jun97.jar;md5;BE69D0C9E96E8637BA98436236C82BF6"
+      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
     },
     {
       "key": "yisou",
-      "name": "🎯宜搜",
+      "name": "🎯宜搜(仅搜索)",
       "type": 3,
       "api": "csp_Yisou",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
-      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/jun97.jar;md5;BE69D0C9E96E8637BA98436236C82BF6"
+      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
     },
     {
       "key": "AliPS",
@@ -738,7 +737,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/jun97.jar;md5;BE69D0C9E96E8637BA98436236C82BF6"
+      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
     },
     {
       "key": "push_agent",
@@ -749,8 +748,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 1,
-      "ext": "token;desc",
-      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/jun97.jar;md5;BE69D0C9E96E8637BA98436236C82BF6"
+      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
     },
    {
       "key": "csp_xpath_yinfans",
