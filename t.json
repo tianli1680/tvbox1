@@ -184,16 +184,16 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_Ddys",
-      "name": "🐞低端影视",
-      "type": 3,
-      "api": "csp_Dora",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "1cc92323700909e7d46623bc85b958d6"
-    },
+ {
+  "key":"csp_DiDuan",
+  "name":"🐞低端影视",
+  "type":3,
+  "api":"csp_Ddrk",
+  "click":"ddys.tv;#vjsp > button",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":0
+  },
     {
       "key":"csp_Dy555",
       "name":"🥇555影视",
