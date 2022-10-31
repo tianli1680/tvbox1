@@ -195,15 +195,6 @@
   "filterable":0
   },
     {
-      "key":"csp_Dy555",
-      "name":"🥇555影视",
-      "api":"csp_Dy555",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1
-    },
-    {
       "key": "csp_剧荒",
       "name": "⛱️剧荒TV",
       "type": 3,
@@ -308,16 +299,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/厂长资源.json"
-    },
-    {
-      "key": "csp_xp_完美看看",
-      "name": "👯‍♀完美看看",
-      "type": 3,
-      "api": "csp_XPathMac",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/wmkankan.json"
     },
     {
       "key": "csp_biubiu_骚火电影",
@@ -679,7 +660,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"998c79f4f189435090049164d503e4e3"
+      "ext":"69ddb8566b0f4cfb965278be2d6abd94"
     },
     {
       "key": "找资源",
@@ -690,7 +671,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"998c79f4f189435090049164d503e4e3"
+      "ext":"69ddb8566b0f4cfb965278be2d6abd94"
     },
     {
       "key": "upyunsou",
@@ -701,7 +682,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
-      "ext":"998c79f4f189435090049164d503e4e3"
+      "ext":"69ddb8566b0f4cfb965278be2d6abd94"
     },
     {
       "key": "yisou",
@@ -712,7 +693,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
-      "ext":"998c79f4f189435090049164d503e4e3"
+      "ext":"69ddb8566b0f4cfb965278be2d6abd94"
     },
     {
       "key": "AliPS",
@@ -723,7 +704,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"998c79f4f189435090049164d503e4e3"
+      "ext":"69ddb8566b0f4cfb965278be2d6abd94"
     },
     {
       "key": "push_agent",
@@ -734,7 +715,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 1,
-      "ext":"998c79f4f189435090049164d503e4e3"
+      "ext":"69ddb8566b0f4cfb965278be2d6abd94"
     },
    {
       "key": "csp_xpath_yinfans",
