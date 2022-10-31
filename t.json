@@ -246,8 +246,7 @@
       "api": "csp_QQ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/jun97.jar;md5;BE69D0C9E96E8637BA98436236C82BF6"
+      "filterable": 1
     },
     {
       "key": "SPIQY",
@@ -256,8 +255,7 @@
       "api": "csp_IQIYI",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/jun97.jar;md5;BE69D0C9E96E8637BA98436236C82BF6"
+      "filterable": 1
     },
     {
       "key": "SPMGTV",
@@ -266,8 +264,7 @@
       "api": "csp_MGTV",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/jun97.jar;md5;BE69D0C9E96E8637BA98436236C82BF6"
+      "filterable": 1
     },
     {
       "key": "youku",
@@ -360,8 +357,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "16705ee9f4764be8499806f52d4bf1e7",
-      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/cs.jar;md5;2FA006C7A423A228BB32806D3531A1FD"
+      "ext": "16705ee9f4764be8499806f52d4bf1e7"
     },
     {
       "key": "csp_biubiu_剧白白-蓝光",
