@@ -40,6 +40,16 @@
       "filterable": 1,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/Nmys.json"
     },
+      {
+    "key": "Pang",
+    "name": "胖虎",
+    "type": "3",
+    "api": "csp_Dora",
+    "searchable": "1",
+    "quickSearch": "1",
+    "filterable": "1",
+    "ext": "c41fdb671b20925c76fa9b6ff8bad027"
+  },
     {
       "key": "csp_xBPQ_电影先生",
       "name": "🤵电影先生",
