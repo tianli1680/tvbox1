@@ -477,16 +477,6 @@
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/310%E7%9B%B4%E6%92%AD.json"
     },
     {
-      "key": "csp_xpath_球迷直播",
-      "name": "⚽🏀球迷直播",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E7%90%83%E8%BF%B7%E7%9B%B4%E6%92%AD.json"
-    },
-    {
       "key": "JRS看球网",
       "name": "⚽🏀JRS看球网",
       "type": 3,
