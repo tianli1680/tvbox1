@@ -693,7 +693,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
+      "ext":"998c79f4f189435090049164d503e4e3"
     },
     {
       "key": "找资源",
@@ -704,7 +704,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
+      "ext":"998c79f4f189435090049164d503e4e3"
     },
     {
       "key": "upyunsou",
@@ -715,7 +715,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
-      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
+      "ext":"998c79f4f189435090049164d503e4e3"
     },
     {
       "key": "yisou",
@@ -726,7 +726,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
-      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
+      "ext":"998c79f4f189435090049164d503e4e3"
     },
     {
       "key": "AliPS",
@@ -737,7 +737,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
+      "ext":"998c79f4f189435090049164d503e4e3"
     },
     {
       "key": "push_agent",
@@ -748,7 +748,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 1,
-      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
+      "ext":"998c79f4f189435090049164d503e4e3"
     },
    {
       "key": "csp_xpath_yinfans",
