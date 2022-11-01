@@ -2198,6 +2198,6 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "wallpaper": "https://www.yydsys.top/api.php",
+  "wallpaper": "http://www.yydsys.top/api.php",
   "spider": "https://gitlab.com/duomv/duo/-/raw/main/jar/1031.jar;md5;5724B167958A4E46CE04B226149F39D5"
 }
