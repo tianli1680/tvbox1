@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "T4_douban",
-      "name": "🍀公众号：应用多多，更新时间：2022/11/02",
+      "name": "🍀公众号：应用多多，更新时间：2022/11/03",
       "type": 4,
       "api": "http://top.fuqizhishi.com/vod",
       "searchable": 1,
@@ -20,6 +20,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "XMM",
+      "name": "😻小猫咪",
+      "type": 1,
+      "api": "https://zy.xiaomaomi.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": ["国产剧", "日韩剧", "港台剧", "欧美剧", "综艺", "动漫", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "剧情片"]
     },
     {
       "key": "360_spider",
