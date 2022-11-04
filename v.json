@@ -1483,7 +1483,7 @@
     {
 		"name": "多多①线",
 		"type": 1,
-		"url": "https://jx.jsonplayer.com/player/?url="
+		"url": "https://jx.bozrc.com:4433/player/?url="
   	},  
     {
       "name":"多多②线",
@@ -1555,11 +1555,6 @@
 		"name": "多多⑧线",
 		"type": 0,
 		"url": "https://okjx.cc/?url="
-	},
-  {
-		"name": "多多⑨线",
-		"type": 0,
-		"url": "http://www.ikukk.com/?url="
 	}
   ],
   "ijk": [
