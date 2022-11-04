@@ -340,7 +340,7 @@
 	},
     {
       "key": "csp_xb_lib",
-      "name": "🍲LIBVIO",
+      "name": "🍲LIBVIO(XB)",
       "type": 3,
       "api": "csp_XBiu",
       "searchable": 1,
