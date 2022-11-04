@@ -4,24 +4,14 @@
 {
   "sites": [
     {
-      "key": "桉t4",
-      "name": "🍀公众号：应用多多，更新时间：2022/10/31",
+      "key": "T4_douban",
+      "name": "🍀公众号：应用多多，更新时间：2022/11/04",
       "type": 4,
-      "api": "https://t4.secan.icu/vod?sites=all&ali_token=c3895f91c81741959c22feb5fe3a5def&timeout=6",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "api": "http://top.fuqizhishi.com/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
-    {
-  "key": "XMM",
-  "name": 猫咪",
-  "type": 1,
-  "api": "https://zy.xiaomaomi.cc/api.php/provide/vod/",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "categories": ["国产剧", "日韩剧", "港台剧", "欧美剧", "综艺", "动漫", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "剧情片"]
-},
     {
       "key": "csp_Kunyu77",
       "name": "🍁多多七七",
@@ -30,6 +20,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "XMM",
+      "name": "😻小猫咪",
+      "type": 1,
+      "api": "https://zy.xiaomaomi.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": ["国产剧", "日韩剧", "港台剧", "欧美剧", "综艺", "动漫", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "剧情片"]
     },
     {
       "key": "360_spider",
@@ -678,7 +678,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"69ddb8566b0f4cfb965278be2d6abd94"
+      "ext":"c3895f91c81741959c22feb5fe3a5def"
     },
     {
       "key": "找资源",
@@ -689,7 +689,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"69ddb8566b0f4cfb965278be2d6abd94"
+      "ext":"c3895f91c81741959c22feb5fe3a5def"
     },
     {
       "key": "upyunsou",
@@ -700,7 +700,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
-      "ext":"69ddb8566b0f4cfb965278be2d6abd94"
+      "ext":"c3895f91c81741959c22feb5fe3a5def"
     },
     {
       "key": "yisou",
@@ -711,7 +711,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
-      "ext":"69ddb8566b0f4cfb965278be2d6abd94"
+      "ext":"c3895f91c81741959c22feb5fe3a5def"
     },
     {
       "key": "AliPS",
@@ -722,7 +722,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"69ddb8566b0f4cfb965278be2d6abd94"
+      "ext":"c3895f91c81741959c22feb5fe3a5def"
     },
     {
       "key": "push_agent",
@@ -733,7 +733,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 1,
-      "ext":"69ddb8566b0f4cfb965278be2d6abd94"
+      "ext":"c3895f91c81741959c22feb5fe3a5def"
     },
    {
       "key": "csp_xpath_yinfans",
@@ -2209,6 +2209,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://www.yydsys.top/api.php",
-  "spider": "https://gitlab.com/duomv/duo/-/raw/main/jar/duo112.jar;md5;96F2E9D946C082363D314FB8AB84DE49"
+  "spider": "https://gitlab.com/duomv/duo/-/raw/main/jar/1031.jar;md5;5724B167958A4E46CE04B226149F39D5"
 }
-
