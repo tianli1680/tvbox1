@@ -1480,14 +1480,39 @@
       "type": 2,
       "url": "Sequence"
     }, 
-    {
-		"name": "多多①线",
-		"type": 1,
-		"url": "https://jx.bozrc.com:4433/player/?url=",
-    "ext": {
-			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "leshi","letv", "乐视", "pptv", "xigua","西瓜","PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
-		}  
-  	},  
+        {
+            "name": "多多①线",
+            "url": "http://101.34.67.237/parse/api/江湖.js?url=",
+            "type": 1,
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "imgo",
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
+                    "leshi",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "mgtv",
+                    "芒果",
+                    "sohu",
+                    "xigua",
+                    "fun",
+                    "风行"
+                ],
+            "header": {
+           "User-Agent": "Mozilla/5.0"
+            }
+     },
     {
       "name":"多多②线",
       "type":1,
