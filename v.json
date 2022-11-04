@@ -1482,8 +1482,8 @@
     }, 
         {
             "name": "多多①线",
-            "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url=",
-            "type": 1,
+            "url": "https://vip.parwix.com:4433/player/?url=",
+            "type": 0,
             "ext": {
                 "flag": [
                     "qiyi",
@@ -1508,10 +1508,7 @@
                     "xigua",
                     "fun",
                     "风行"
-                ]},
-            "header": {
-           "User-Agent": "Mozilla/5.0"
-            }
+                ]}
      },
     {
       "name":"多多②线",
