@@ -329,6 +329,16 @@
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
     },
     {
+		"key": "py_libvio",
+		"name": "🍲libvio（PY）",
+		"type": 3,
+		"api": "py_libvio",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://gitlab.com/duomv/duo/-/raw/main/json/pylibvio.py"
+	},
+    {
       "key": "csp_xb_lib",
       "name": "🍲LIBVIO",
       "type": 3,
