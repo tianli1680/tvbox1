@@ -601,8 +601,18 @@
       "filterable": 0
     },
     {
+		"key": "py_huya",
+		"name": "🐯虎牙（PY）",
+		"type": 3,
+		"api": "py_huya",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://gitlab.com/duomv/duo/-/raw/main/json/pyhuya.py"
+	},
+    {
       "key": "虎牙",
-      "name": "🐯虎牙",
+      "name": "🐯虎牙XYBQ",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 0,
@@ -610,9 +620,19 @@
       "filterable": 0,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E8%99%8E%E7%89%99.json"
     },
-    {
+ {
+		"key": "py_douyu",
+		"name": "🦈斗鱼（PY）",
+		"type": 3,
+		"api": "py_douyu",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://gitlab.com/duomv/duo/-/raw/main/json/pydouyu.py"
+	},
+ {
       "key": "csp_biubiu_斗鱼",
-      "name": "🦈斗鱼",
+      "name": "🦈斗鱼XBB",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 0,
