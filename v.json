@@ -1479,11 +1479,11 @@
       "name": "Json轮询",
       "type": 2,
       "url": "Sequence"
-    },
+    },  
     {
-      "name": "多多①线",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url="
+      "name":"多多①线",
+      "type":1,
+      "url":"https://play.fuqizhishi.com/jx2/API.php?appkey=iiiixiaobai&url="
     },
     {
       "name": "多多②线",
