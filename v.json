@@ -51,16 +51,6 @@
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/Nmys.json"
     },
     {
-      "key": "csp_xBPQ_电影先生",
-      "name": "🤵电影先生",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/filmMr.json"
-    },
-    {
       "key": "csp_xpath_独播库",
       "name": "🐲独播库",
       "type": 3,
@@ -162,6 +152,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/真不卡.json"
+    },
+    {
+      "key": "搭讪",
+      "name": "💋多多搭讪",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext":"https://gitlab.com/duomv/duo/-/raw/main/json/dashan.json"
     },
     {
       "key": "搭配",
