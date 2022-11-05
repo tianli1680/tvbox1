@@ -705,7 +705,6 @@
       "type": 3,
       "api": "csp_Gitcafe",
       "searchable": 1,
-      "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt",
