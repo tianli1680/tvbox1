@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "T4_douban",
-      "name": "🍀公众号：应用多多，更新时间：2022/11/04",
+      "name": "🍀公众号：应用多多，更新时间：2022/11/05",
       "type": 4,
       "api": "http://top.fuqizhishi.com/vod",
       "searchable": 1,
@@ -49,16 +49,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/Nmys.json"
-    },
-    {
-      "key": "csp_xBPQ_电影先生",
-      "name": "🤵电影先生",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/filmMr.json"
     },
     {
       "key": "csp_xpath_独播库",
@@ -339,8 +329,18 @@
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
     },
     {
+		"key": "py_libvio",
+		"name": "🍲libvio（PY）",
+		"type": 3,
+		"api": "py_libvio",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://gitlab.com/duomv/duo/-/raw/main/json/pylibvio.py"
+	},
+    {
       "key": "csp_xb_lib",
-      "name": "🍲LIBVIO",
+      "name": "🍲LIBVIO(XB)",
       "type": 3,
       "api": "csp_XBiu",
       "searchable": 1,
@@ -611,8 +611,18 @@
       "filterable": 0
     },
     {
+		"key": "py_huya",
+		"name": "🐯虎牙（PY）",
+		"type": 3,
+		"api": "py_huya",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://gitlab.com/duomv/duo/-/raw/main/json/pyhuya.py"
+	},
+    {
       "key": "虎牙",
-      "name": "🐯虎牙",
+      "name": "🐯虎牙XYBQ",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 0,
@@ -620,9 +630,19 @@
       "filterable": 0,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E8%99%8E%E7%89%99.json"
     },
-    {
+ {
+		"key": "py_douyu",
+		"name": "🦈斗鱼（PY）",
+		"type": 3,
+		"api": "py_douyu",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://gitlab.com/duomv/duo/-/raw/main/json/pydouyu.py"
+	},
+ {
       "key": "csp_biubiu_斗鱼",
-      "name": "🦈斗鱼",
+      "name": "🦈斗鱼XBB",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 0,
@@ -688,7 +708,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"c3895f91c81741959c22feb5fe3a5def"
+      "ext":"69ddb8566b0f4cfb965278be2d6abd94"
     },
     {
       "key": "找资源",
@@ -699,7 +719,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"c3895f91c81741959c22feb5fe3a5def"
+      "ext":"69ddb8566b0f4cfb965278be2d6abd94"
     },
     {
       "key": "upyunsou",
@@ -710,7 +730,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
-      "ext":"c3895f91c81741959c22feb5fe3a5def"
+      "ext":"69ddb8566b0f4cfb965278be2d6abd94"
     },
     {
       "key": "yisou",
@@ -721,7 +741,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
-      "ext":"c3895f91c81741959c22feb5fe3a5def"
+      "ext":"69ddb8566b0f4cfb965278be2d6abd94"
     },
     {
       "key": "AliPS",
@@ -732,7 +752,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"c3895f91c81741959c22feb5fe3a5def"
+      "ext":"69ddb8566b0f4cfb965278be2d6abd94"
     },
     {
       "key": "push_agent",
@@ -743,7 +763,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 1,
-      "ext":"c3895f91c81741959c22feb5fe3a5def"
+      "ext":"69ddb8566b0f4cfb965278be2d6abd94"
     },
    {
       "key": "csp_xpath_yinfans",
@@ -1470,7 +1490,7 @@
     }
   ],
   "parses": [
-    {
+     {
       "name": "解析聚合",
       "type": 3,
       "url": "Demo"
@@ -1490,6 +1510,14 @@
       "type": 2,
       "url": "Sequence"
     },
+{
+		"name": "多多测试",
+		"type": 0,
+		"url": "https://h5.freejson.xyz/player/?url=",
+		"ext": {
+			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
+		}    
+	},
     {
       "name": "多多①线",
       "type": 0,
@@ -1756,9 +1784,9 @@
       }
     },
     {
-      "name": "多多⑭线",
-      "type": 1,
-      "url": "https://vip.cyu0.cn/home/api?type=ys&uid=1353484&key=efopqwABCLOTVYZ278&url=",
+      "name":"多多⑭线",
+      "type":1,
+      "url":"https://play.fuqizhishi.com/jx2/API.php?appkey=iiiixiaobai&url=",
       "ext": {
         "flag": [
           "qiyi",
@@ -2219,5 +2247,6 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://www.yydsys.top/api.php",
-  "spider": "https://gitlab.com/duomv/duo/-/raw/main/jar/1105.jar;md5;0B0EF0D93F6361333B36A28C6EC22757"
+  "spider": "https://gitlab.com/duomv/duo/-/raw/main/jar/115.jar;md5;CA07E741640DEBC3777BB9A227CFB884"
 }
+
