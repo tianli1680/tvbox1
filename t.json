@@ -12,7 +12,46 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {"key":"Gitcafe","name":"📃小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"5e8a0d48c3f4486a843351c716c1af66","jar":"http://52bsj.vip:81/api/v3/file/get/59958/ali.jar?sign=Ju6IMNmWSdej1a3_ptZR-p5yXzlV5A7Bmtku3JDbmI4%3D%3A0"},
+  {
+    "key": "Zjdr",
+    "name": "追剧",
+    "type": "3",
+    "api": "csp_Dora",
+    "searchable": "1",
+    "quickSearch": "1",
+    "filterable": "1",
+    "ext": "778e8966ec0e9c0ae0b4682ad3550f40"
+  },
+  {
+    "key": "Hei",
+    "name": "石榴",
+    "type": "3",
+    "api": "csp_Dora",
+    "searchable": "1",
+    "quickSearch": "1",
+    "filterable": "1",
+    "ext": "3bff500c8b1e06c052a1b0f1f7a62b45"
+  },
+  {
+    "key": "Pang",
+    "name": "胖虎",
+    "type": "3",
+    "api": "csp_Dora",
+    "searchable": "1",
+    "quickSearch": "1",
+    "filterable": "1",
+    "ext": "c41fdb671b20925c76fa9b6ff8bad027"
+  },
+    {
+    "key": "Yanet",
+    "name": "奈飞",
+    "type": "3",
+    "api": "csp_Dora",
+    "searchable": "1",
+    "quickSearch": "1",
+    "filterable": "1",
+    "ext": "a369b1f623fe86605f1b029f0cf66349"
+  },
     {
       "key": "csp_Kunyu77",
       "name": "🍁多多七七",
