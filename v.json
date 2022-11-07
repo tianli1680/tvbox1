@@ -1647,36 +1647,7 @@
     {
       "name": "多多⑩线",
       "type": 1,
-      "url": "http://101.34.67.237:5705/parse/api/江湖.js?url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "imgo",
-          "爱奇艺",
-          "奇艺",
-          "qq",
-          "腾讯",
-          "youku",
-          "优酷",
-          "pptv",
-          "PPTV",
-          "letv",
-          "乐视",
-          "leshi",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "mgtv",
-          "芒果",
-          "sohu",
-          "xigua",
-          "fun",
-          "风行"
-        ],
-        "header": {
-          "User-Agent": "Mozilla/5.0"
-        }
-      }
+      "url": "http://jx.vipmv.co/json.php?token=123457&url="
     },
     {
       "name": "多多⑪线",
