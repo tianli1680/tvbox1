@@ -7,8 +7,8 @@
       "key":"js豆瓣",
       "name":"🍀公众号：应用多多，更新时间：2022/11/09",
       "type":3,
-      "api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js",
-      "ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js",
+      "api":"https://gitlab.com/duomv/duo/-/raw/main/js/yingmo.js",
+      "ext":"https://gitlab.com/duomv/duo/-/raw/main/js/douban.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
