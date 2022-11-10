@@ -5,7 +5,7 @@
   "sites": [
     {
       "key":"douban",
-      "name":"🍀公众号:应用多多",
+      "name":"🍀公众号:应用多多,更新时间:2022/11/10",
       "type":4,
       "api":"http://top.fuqizhishi.com/vod",
       "searchable": 0,
@@ -14,7 +14,7 @@
       },
     {
       "key":"js豆瓣",
-      "name":"更新时间:2022/11/10",
+      "name":"豆瓣热播DR",
       "type":3,
       "api":"https://gitlab.com/duomv/duo/-/raw/main/js/yingmo.js",
       "ext":"https://gitlab.com/duomv/duo/-/raw/main/js/douban.js",
