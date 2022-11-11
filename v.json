@@ -41,6 +41,13 @@
       "filterable": 1
     },
     {
+      "key": "drpy_js_看视界",
+      "name": "🎉看视界🎉",
+      "type": 3,
+      "api": "https://gitlab.com/duomv/duo/-/raw/main/js/yingmo.js",
+      "ext": "https://gitlab.com/duomv/duo/-/raw/main/js/ksj.js"
+    },
+    {
       "key": "csp_Nkdy",
       "name": "🎨南柯电影",
       "type": 3,
