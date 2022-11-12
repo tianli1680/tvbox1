@@ -22,27 +22,6 @@
       "quickSearch": 0,
       "filterable": 0
       },
-      
-    {
-      "key":"csp_Bili",
-      "name":"🅱哔哩合集",
-      "type": 3,
-      "api": "csp_Bili2",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext":"./Bili/bili.json"
-    },
-    {
-      "key":"csp_Biliych",
-      "name":"🅱看演唱会",
-      "type": 3,
-      "api": "csp_Bili2",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext":"./Bili/演唱会.json"
-    }, 
     {
       "key": "csp_Kunyu77",
       "name": "🍁多多七七",
@@ -588,15 +567,25 @@
       "ext": "{\"分类url\":\"https://www.zhuafan.tech/sports-home/category/{cateId}\",\"分类\":\"全部$/all#足球$Football#篮球$Basketball#羽乒$Badminton#台球$Billiards#棒球$Baseball#户外$Outdoors#搏击$Wrestling#综合$Others#棋盘$Boardgame#电竞$Popular#网球$Tennis#排球$Volleyball#聊天$Chat#原声$Acoustic\",\"热门推荐\":\"1\",\"起始页\":\"1\",\"直接播放\":\"1\",\"数组\":\"{&&}\",\"图片\":\"imageUrl\\\":\\\"&&\\\"\",\"标题\":\"cname\\\":\\\"&&\\\"\",\"链接\":\"id\\\":\\\"&&\\\"\",\"链接前缀\":\"https://www.zhuafan.tech/\"}"
     },
     {
-      "key": "csp_BBB",
-      "name": "🅱️哔哩哔哩",
+      "key": "csp_Bili",
+      "name": "🅱️哔哩合集",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_Bili2",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./Bili/bili.json"
+    },
+    {
+      "key":"csp_Biliych",
+      "name":"🎤看演唱会",
+      "type": 3,
+      "api": "csp_Bili2",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/Bili/%E5%93%94%E5%93%A9%E5%A5%97%E9%A4%90.json"
-    },
+      "ext":"./Bili/演唱会.json"
+    }, 
     {
       "key": "儿童",
       "name": "🐯儿童乐园",
@@ -636,16 +625,6 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/Bili/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"
-    },
-    {
-      "key": "音乐",
-      "name": "🎤音乐现场",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/Bili/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"
     },
     {
       "key": "热舞",
