@@ -4,8 +4,17 @@
 {
   "sites": [
     {
+      "key":"douban",
+      "name":"🍀公众号:应用多多,更新时间:2022/11/11",
+      "type":4,
+      "api":"http://top.fuqizhishi.com/vod",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+      },
+    {
       "key":"js豆瓣",
-      "name":"🍀公众号：应用多多，更新时间：2022/11/09",
+      "name":"豆瓣热播DR",
       "type":3,
       "api":"https://gitlab.com/duomv/duo/-/raw/main/js/yingmo.js",
       "ext":"https://gitlab.com/duomv/duo/-/raw/main/js/douban.js",
@@ -13,34 +22,6 @@
       "quickSearch": 0,
       "filterable": 0
       },
-
-{
-      "key": "zhibo1",
-      "name": "t4直播默认显示&支持base64",
-      "type": 4,
-      "api": "http://120.53.102.254/live?url=http://xn--4bra.live/jar2/zb.txt",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-               {
-      "key": "zhibo2",
-      "name": "t4直播显示方式2&支持base64",
-      "type": 4,
-      "api": "http://120.53.102.254/live2?url=aHR0cDovL3huLS00YnJhLmxpdmUvamFyMi96Yi50eHQ=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "VIPlive",
-      "name": "VIP直播",
-      "type": 4,
-      "api": "http://120.53.102.254/live?url=https://files.catbox.moe/ubfigc.txt",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
     {
       "key": "csp_Kunyu77",
       "name": "🍁多多七七",
@@ -50,44 +31,21 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "XMM",
-      "name": "😻小猫咪",
-      "type": 1,
-      "api": "https://zy.xiaomaomi.cc/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": ["国产剧", "日韩剧", "港台剧", "欧美剧", "综艺", "动漫", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "剧情片"]
-    },
-    {
-      "key": "360_spider",
-      "name": "🌈360影视",
+        {
+      "key": "APPTT",
+      "name": "🗺️图图影视",
       "type": 3,
-      "api": "csp_SP360",
+      "api": "csp_AppTT",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "csp_Nmys",
-      "name": "👨‍🌾农民影视",
+      "key": "drpy_js_看视界",
+      "name": "🎉看视界🎉",
       "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/Nmys.json"
-    },
-    {
-      "key": "csp_xpath_独播库",
-      "name": "🐲独播库",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/duboku.json"
+      "api": "https://gitlab.com/duomv/duo/-/raw/main/js/yingmo.js",
+      "ext": "https://gitlab.com/duomv/duo/-/raw/main/js/ksj.js"
     },
     {
       "key": "csp_Nkdy",
@@ -117,15 +75,63 @@
       "filterable": 1
     },
     {
-      "key": "APPTT",
-      "name": "🗺️图图影视",
+      "key": "360_spider",
+      "name": "🌈360影视",
       "type": 3,
-      "api": "csp_AppTT",
+      "api": "csp_SP360",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
-      {
+    {
+      "key":"csp_biubiu_鸭奈飞",
+      "name":"🦆鸭奈飞",
+      "type":3,
+      "api":"csp_XBiubiu",
+      "searchable":1,
+      "quickSearch":1,"ext":"https://gitlab.com/duomv/duo/-/raw/main/json/naifei.json"
+      },
+    {
+      "key": "csp_biubiu_voflix",
+      "name": "🌀voflix",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/voflix.json"
+    },
+   {
+      "key": "csp_Nmys",
+      "name": "👨‍🌾农民影视",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/Nmys.json"
+    },
+    {
+      "key": "csp_xpath_独播库",
+      "name": "🐲独播库",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/duboku.json"
+    },
+    {
+      "key": "XMM",
+      "name": "😻小猫咪",
+      "type": 1,
+      "api": "https://zy.xiaomaomi.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": ["国产剧", "日韩剧", "港台剧", "欧美剧", "综艺", "动漫", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "剧情片"]
+    },
+    {
         "key":"多多资源",
         "name":"🍵多多资源",
         "quickSearch":1,
@@ -729,59 +735,59 @@
       "filterable": 0
     },
     {
-      "key": "找资源",
+      "key": "Gitcafe",
+      "name": "🔖小纸条",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"5e8a0d48c3f4486a843351c716c1af66",
+      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/ali.zip"
+    },
+    {
+      "key": "csp_Zhaozy",
       "name": "🔍找资源(仅搜索)",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
-      "playerType": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext":"69ddb8566b0f4cfb965278be2d6abd94"
-    },
-    {
-      "key": "upyunsou",
-      "name": "🌤UP云搜（仅搜索）",
-      "type": 3,
-      "api": "csp_Upyunso",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 1,
       "filterable": 0,
-      "ext":"69ddb8566b0f4cfb965278be2d6abd94"
+      "ext":"5e8a0d48c3f4486a843351c716c1af66",
+      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/sou.jar"
     },
     {
-      "key": "yisou",
-      "name": "🎯宜搜(仅搜索)",
+      "key": "csp_Yisou",
+      "name": "🎯易搜(仅搜索)",
       "type": 3,
       "api": "csp_Yisou",
       "searchable": 1,
       "quickSearch": 1,
-      "playerType": 1,
       "filterable": 0,
-      "ext":"69ddb8566b0f4cfb965278be2d6abd94"
+      "ext":"5e8a0d48c3f4486a843351c716c1af66",
+      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/sou.jar"
     },
     {
-      "key": "AliPS",
+      "key": "csp_AliPS",
       "name": "📀盘搜(仅搜索)",
       "type": 3,
       "api": "csp_AliPS",
       "searchable": 1,
-      "playerType": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext":"69ddb8566b0f4cfb965278be2d6abd94"
+      "filterable": 0,
+      "ext":"5e8a0d48c3f4486a843351c716c1af66",
+      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/sou.jar"
     },
     {
       "key": "push_agent",
       "name": "📨推送",
       "type": 3,
       "api": "csp_PushAgent",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 1,
-      "filterable": 1,
-      "ext":"69ddb8566b0f4cfb965278be2d6abd94"
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext":"5e8a0d48c3f4486a843351c716c1af66",
+      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/sou.jar"
     },
    {
       "key": "csp_xpath_yinfans",
@@ -1012,16 +1018,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E9%A5%AD%E5%9B%A2HD.json"
-    },
-    {
-      "key": "csp_biubiu_voflix",
-      "name": "🌀voflix",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/voflix.json"
     },
     {
       "key": "csp_XBiubiu_TVB云播",
@@ -1508,7 +1504,7 @@
     }
   ],
   "parses": [
-     {
+       {
       "name": "解析聚合",
       "type": 3,
       "url": "Demo"
@@ -1527,7 +1523,7 @@
       "name": "Json轮询",
       "type": 2,
       "url": "Sequence"
-    },
+    }, 
 {
 		"name": "多多测试",
 		"type": 0,
@@ -1668,36 +1664,7 @@
     {
       "name": "多多⑩线",
       "type": 1,
-      "url": "http://101.34.67.237:5705/parse/api/江湖.js?url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "imgo",
-          "爱奇艺",
-          "奇艺",
-          "qq",
-          "腾讯",
-          "youku",
-          "优酷",
-          "pptv",
-          "PPTV",
-          "letv",
-          "乐视",
-          "leshi",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "mgtv",
-          "芒果",
-          "sohu",
-          "xigua",
-          "fun",
-          "风行"
-        ],
-        "header": {
-          "User-Agent": "Mozilla/5.0"
-        }
-      }
+      "url": "http://jx.vipmv.co/json.php?token=123457&url="
     },
     {
       "name": "多多⑪线",
@@ -2264,7 +2231,6 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "wallpaper": "https://www.yydsys.top/api.php",
-  "spider": "https://gitlab.com/duomv/duo/-/raw/main/jar/115.jar;md5;CA07E741640DEBC3777BB9A227CFB884"
+  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+  "spider": "https://gitlab.com/duomv/duo/-/raw/main/jar/1105.jar;md5;0B0EF0D93F6361333B36A28C6EC22757"
 }
-
