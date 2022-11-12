@@ -406,6 +406,15 @@
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/剧白白-蓝光.json"
     },
     {
+      "key":"csp_Dy1010",
+      "name":"❤️双十影院",
+      "type":3,
+      "api":"csp_Dy1010",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+      },
+    {
       "key": "mjxq_spider",
       "name": "🌏美剧星球",
       "type": 3,
