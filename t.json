@@ -683,15 +683,15 @@
 		"filterable": 1,
 		"ext": "https://gitlab.com/duomv/duo/-/raw/main/json/pyhuya.py"
 	},
-    {
-      "key": "虎牙",
-      "name": "🐯虎牙XYBQ",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E8%99%8E%E7%89%99.json"
+  {
+    "key":"csp_XYQBiu_虎牙直播",
+    "name":"🐯虎牙直播",
+    "type":3,
+    "api":"XYQBiu",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":0,
+    "ext":"https://gitlab.com/duomv/duo/-/raw/main/json/%E8%99%8E%E7%89%99.json"
     },
  {
 		"key": "py_douyu",
