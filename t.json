@@ -91,16 +91,7 @@
       "searchable":1,
       "quickSearch":1,"ext":"https://gitlab.com/duomv/duo/-/raw/main/json/naifei.json"
       },
-    {
-      "key": "csp_biubiu_voflix",
-      "name": "🌀voflix",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/voflix.json"
-    },
+      {"key":"csp_Lgyy","name":"🌀voflix","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
    {
       "key": "csp_Nmys",
       "name": "👨‍🌾农民影视",
@@ -302,7 +293,7 @@
       "filterable": 1
     },
     {
-      "key": "SPMGTV",
+      "key": "MGT",
       "name": "🥭芒果(官)",
       "type": 3,
       "api": "csp_MGTV",
@@ -384,6 +375,15 @@
       "ext": " https://www.libvio.me/type/{cateId}-{catePg}.html"
     },
     {
+      "key":"csp_Smdyy",
+      "name": "🐴神马影院",
+      "type": 3,
+      "api": "csp_Smdyy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "bdys",
       "name": "📯哔嘀影视",
       "type": 3,
@@ -392,16 +392,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext":"https://gitlab.com/duomv/duo/-/raw/main/json/bdys.json"
-    },
-    {
-      "key": "Smdyy",
-      "name": "🐎神马影院",
-      "type": 3,
-      "api": "csp_Dora",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "16705ee9f4764be8499806f52d4bf1e7"
     },
     {
       "key": "csp_biubiu_剧白白-蓝光",
@@ -467,6 +457,16 @@
       "quickSearch": 1,
       "filterable": 0
     },
+     {
+      "key": "csp_biubiu_voflix",
+      "name": "🌀voflix(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/voflix.json"
+    },
     {
       "key": "csp_Anime1",
       "name": "🌸动漫",
@@ -486,6 +486,16 @@
       "filterable": 0,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/tingshu.json"
     },
+    {
+      "key":"csp_XPath_鹅直播",
+      "name":"⚽🏀企鹅直播",
+      "type":3,
+      "api":"csp_XPath3",
+      "searchable":0,
+      "quickSearch":0,
+      "filterable":0,
+      "ext":"./json/qie.json"
+      },
     {
       "key": "17kan",
       "name": "⚽🏀17看球",
