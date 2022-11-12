@@ -23,6 +23,16 @@
       "filterable": 0
       },
     {
+      "key": "csp_XYQ_lu1",
+      "name": "️🖥️电视直播",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/ningmeng.json"
+    },
+    {
       "key": "csp_Kunyu77",
       "name": "🍁多多七七",
       "type": 3,
@@ -148,16 +158,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/789ba.json"
-    },
-    {
-      "key": "csp_XYQ_lu1",
-      "name": "️🖥️电视直播",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/ningmeng.json"
     },
     {
       "key": "py_cctv",
@@ -582,7 +582,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./Bili/bili.json"
+      "ext": "https://gitlab.com/duomv/duo/-/raw/main/Bili/bili.json"
     },
     {
       "key":"csp_Biliych",
@@ -592,7 +592,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext":"./Bili/演唱会.json"
+      "ext":"https://gitlab.com/duomv/duo/-/raw/main/Bili/演唱会.json"
     }, 
     {
       "key": "儿童",
