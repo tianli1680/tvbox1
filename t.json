@@ -296,7 +296,7 @@
       "key": "MGT",
       "name": "🥭芒果(官)",
       "type": 3,
-      "api": "csp_MGTV",
+      "api": "csp_Mgtv",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
