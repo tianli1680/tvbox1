@@ -640,7 +640,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "🅱️https://gitlab.com/duomv/duo/-/raw/main/Bili/xiqu.py"
+            "ext" : "https://gitlab.com/duomv/duo/-/raw/main/Bili/xiqu.py"
         }, {
             "key" : "py_TYjs",
             "name" : "🅱️体育健身",
@@ -649,7 +649,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "🅱️https://gitlab.com/duomv/duo/-/raw/main/Bili/tiyu.py"
+            "ext" : "https://gitlab.com/duomv/duo/-/raw/main/Bili/tiyu.py"
         }, {
             "key" : "py_xiangsh",
             "name" : "🅱️相声小品",
