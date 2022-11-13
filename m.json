@@ -356,7 +356,7 @@
     },
     {
 		"key": "py_libvio",
-		"name": "🍲libvio（PY）",
+		"name": "🍲LIB(PY)",
 		"type": 3,
 		"api": "py_libvio",
 		"searchable": 0,
@@ -366,7 +366,7 @@
 	},
     {
       "key": "csp_xb_lib",
-      "name": "🍲LIBVIO(XB)",
+      "name": "🍲LIB(XB)",
       "type": 3,
       "api": "csp_XBiu",
       "searchable": 1,
@@ -414,7 +414,7 @@
     },
     {
       "key":"csp_Dy1010",
-      "name":"❤️双十影院",
+      "name":"❤️双十电影",
       "type":3,
       "api":"csp_Dy1010",
       "searchable":1,
@@ -506,7 +506,7 @@
     },
     {
       "key":"csp_XPath_鹅直播",
-      "name":"⚽🏀企鹅直播",
+      "name":"🏀企鹅直播",
       "type":3,
       "api":"csp_XPath3",
       "searchable":0,
@@ -516,7 +516,7 @@
       },
     {
       "key": "17kan",
-      "name": "⚽🏀17看球",
+      "name": "⚽17看球",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 0,
@@ -526,7 +526,7 @@
     },
     {
       "key": "dr_88看球",
-      "name": "⚽🏀88看球",
+      "name": "🏀88看球",
       "type": 3,
       "api": "https://gitlab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 0,
@@ -536,7 +536,7 @@
     },
     {
       "key": "csp_XYQBiu_310直播",
-      "name": "⚽🏀310直播",
+      "name": "⚽310直播",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 0,
@@ -546,7 +546,7 @@
     },
     {
       "key": "JRS看球网",
-      "name": "⚽🏀JRS看球",
+      "name": "🏀JRS看球",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
@@ -555,24 +555,25 @@
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/JRS%E7%9C%8B%E7%90%83%E7%BD%91.json"
     },
     {
-      "key": "dr_JRKAN直播",
-      "name": "⚽🏀JRK直播",
-      "type": 3,
-      "api": "https://gitlab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/js/JRKAN.js"
-    },
-    {
       "key": "csp_xBPQ_抓饭体育",
-      "name": "️⚽🏀抓饭体育",
+      "name": "️⚽抓饭体育",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "ext": "{\"分类url\":\"https://www.zhuafan.tech/sports-home/category/{cateId}\",\"分类\":\"全部$/all#足球$Football#篮球$Basketball#羽乒$Badminton#台球$Billiards#棒球$Baseball#户外$Outdoors#搏击$Wrestling#综合$Others#棋盘$Boardgame#电竞$Popular#网球$Tennis#排球$Volleyball#聊天$Chat#原声$Acoustic\",\"热门推荐\":\"1\",\"起始页\":\"1\",\"直接播放\":\"1\",\"数组\":\"{&&}\",\"图片\":\"imageUrl\\\":\\\"&&\\\"\",\"标题\":\"cname\\\":\\\"&&\\\"\",\"链接\":\"id\\\":\\\"&&\\\"\",\"链接前缀\":\"https://www.zhuafan.tech/\"}"
+    },
+
+    {
+      "key": "dr_JRKAN直播",
+      "name": "🏀JRK直播",
+      "type": 3,
+      "api": "https://gitlab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gitlab.com/duomv/duo/-/raw/main/js/JRKAN.js"
     },
     {
       "key": "csp_Bili",
@@ -775,7 +776,7 @@
     },
     {
       "key": "csp_Zhaozy",
-      "name": "🔍找资源(仅搜索)",
+      "name": "🔍找资源",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -786,7 +787,7 @@
     },
     {
       "key": "csp_Yisou",
-      "name": "🎯易搜(仅搜索)",
+      "name": "🎯易搜",
       "type": 3,
       "api": "csp_Yisou",
       "searchable": 1,
@@ -797,7 +798,7 @@
     },
     {
       "key": "csp_AliPS",
-      "name": "📀盘搜(仅搜索)",
+      "name": "📀盘搜",
       "type": 3,
       "api": "csp_AliPS",
       "searchable": 1,
@@ -1119,7 +1120,7 @@
     },
     {
       "key": "csp_biubiu_OmoFun动漫",
-      "name": "🧚OmoFun动漫",
+      "name": "🧚OF动漫",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
