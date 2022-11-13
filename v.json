@@ -586,6 +586,16 @@
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/Bili/bili.json"
     },
     {
+      "key": "美食",
+      "name": "🅱️美食合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitlab.com/duomv/duo/-/raw/main/Bili/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"
+    },
+    {
       "key":"csp_Biliych",
       "name":"🅱️看演唱会",
       "type": 3,
@@ -595,66 +605,135 @@
       "filterable": 1,
       "ext":"https://gitlab.com/duomv/duo/-/raw/main/Bili/演唱会.json"
     }, 
-    {
-      "key": "儿童",
-      "name": "🐯儿童乐园",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/Bili/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"
-    },
-    {
-      "key": "学习",
-      "name": "📝学习园地",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/Bili/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"
-    },
-    {
-      "key": "软件",
-      "name": "📗软件教程",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/Bili/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"
-    },
-    {
-      "key": "美食",
-      "name": "🍔美食合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/Bili/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"
-    },
-    {
-      "key": "热舞",
-      "name": "💃女团热舞",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/Bili/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json"
-    },
-    {
-      "key": "戏曲",
-      "name": "👘戏曲合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/Bili/%E6%88%8F%E6%9B%B2%E5%90%88%E9%9B%86.json"
-    },
+    	{
+            "key" : "py_youer",
+            "name" : "🅱️幼儿教育",
+            "type" : 3,
+            "api" : "py_youer",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "https://gitlab.com/duomv/duo/-/raw/main/Bili/youer.py"
+        }, 
+        {
+            "key" : "py_xiaoxue",
+            "name" : "🅱️小学教育",
+            "type" : 3,
+            "api" : "py_xiaoxue",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "https://gitlab.com/duomv/duo/-/raw/main/Bili/xiaoxue.py"
+        }, {
+            "key" : "py_czxx",
+            "name" : "🅱️初中教育",
+            "type" : 3,
+            "api" : "py_czxx",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "https://gitlab.com/duomv/duo/-/raw/main/Bili/chuzhong.py"
+        }, {
+            "key" : "py_gaozxx",
+            "name" : "🅱️高中教育",
+            "type" : 3,
+            "api" : "py_gaozxx",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "https://gitlab.com/duomv/duo/-/raw/main/Bili/gaozhong.py"
+        }, {
+            "key" : "py_xuqu1",
+            "name" : "🅱️戏曲合集",
+            "type" : 3,
+            "api" : "py_xuqu1",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "🅱️https://gitlab.com/duomv/duo/-/raw/main/Bili/xiqu.py"
+        }, {
+            "key" : "py_TYjs",
+            "name" : "体育健身",
+            "type" : 3,
+            "api" : "py_TYjs",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "🅱️https://gitlab.com/duomv/duo/-/raw/main/Bili/tiyu.py"
+        }, {
+            "key" : "py_xiangsh",
+            "name" : "🅱️相声小品",
+            "type" : 3,
+            "api" : "py_xiangsh",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "https://gitlab.com/duomv/duo/-/raw/main/Bili/xiaopin.py"
+        }, {
+            "key" : "py_FBqx",
+            "name" : "🅱️球队球星",
+            "type" : 3,
+            "api" : "py_FBqx",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "https://gitlab.com/duomv/duo/-/raw/main/Bili/qiudui.py"
+        },  {
+            "key" : "py_Meinvw",
+            "name" : "🅱️美女热舞",
+            "type" : 3,
+            "api" : "py_Meinvw",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "https://gitlab.com/duomv/duo/-/raw/main/Bili/meinv.py"
+        }, {
+            "key" : "py_yanchh",
+            "name" : "🅱️歌手合集",
+            "type" : 3,
+            "api" : "py_yanchh",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "https://gitlab.com/duomv/duo/-/raw/main/Bili/geshou.py"
+        }, {
+            "key" : "py_Nvtuan",
+            "name" : "🅱️女团热舞",
+            "type" : 3,
+            "api" : "py_Nvtuan",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "https://gitlab.com/duomv/duo/-/raw/main/Bili/nvtuan.py"
+        }, {
+            "key" : "py_MTV",
+            "name" : "🅱️歌曲MTV",
+            "type" : 3,
+            "api" : "py_MTV",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "https://gitlab.com/duomv/duo/-/raw/main/Bili/mtv.py"
+        }, {
+            "key" : "py_Yinl2",
+            "name" : "🅱️音乐合集",
+            "type" : 3,
+            "api" : "py_Yinl2",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "https://gitlab.com/duomv/duo/-/raw/main/Bili/yinyue.py"
+        }, 
+        {
+            "key" : "py_Bzjc",
+            "name" : "🅱️软件教程",
+            "type" : 3,
+            "api" : "py_Bzjc",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "https://gitlab.com/duomv/duo/-/raw/main/Bili/ruanjian.py"
+        }, 
     {
       "key": "短视频聚合",
       "name": "📱短视频聚合",
