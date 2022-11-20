@@ -1546,14 +1546,11 @@
       "type": 2,
       "url": "Sequence"
     }, 
-{
-		"name": "多多测试",
-		"type": 0,
-		"url": "https://h5.freejson.xyz/player/?url=",
-		"ext": {
-			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
-		}    
-	},
+    {
+      "name":"QTV4K",
+      "type":1,
+      "url":"http://43.143.123.112:8182/qq/api.php?tk=zdytv202211&defn=uhd&url="
+      },
     {
       "name": "多多①线",
       "type": 0,
