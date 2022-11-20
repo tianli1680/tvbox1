@@ -1567,11 +1567,6 @@
       "url": "Sequence"
     }, 
     {
-      "name":"QQ4K",
-      "type":1,
-      "url":"http://43.143.123.112:8182/qq/api.php?tk=zdytv202211&defn=uhd&url="
-      },
-    {
       "name": "多多①线",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
