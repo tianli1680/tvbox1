@@ -867,7 +867,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"5e8a0d48c3f4486a843351c716c1af66",
+      "ext":"69355eb2358747f49889c444126ef089",
       "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/ali.zip"
     },
     {
@@ -878,7 +878,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext":"5e8a0d48c3f4486a843351c716c1af66",
+      "ext":"69355eb2358747f49889c444126ef089",
       "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/sou.jar"
     },
     {
@@ -889,7 +889,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext":"5e8a0d48c3f4486a843351c716c1af66",
+      "ext":"69355eb2358747f49889c444126ef089",
       "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/sou.jar"
     },
     {
@@ -900,7 +900,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext":"5e8a0d48c3f4486a843351c716c1af66",
+      "ext":"69355eb2358747f49889c444126ef089",
       "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/sou.jar"
     },
     {
@@ -911,7 +911,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext":"5e8a0d48c3f4486a843351c716c1af66",
+      "ext":"69355eb2358747f49889c444126ef089",
       "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/sou.jar"
     },
    {
