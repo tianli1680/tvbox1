@@ -12,6 +12,17 @@
       "quickSearch": 0,
       "filterable": 0
       },
+      {
+        "key":"YQK_spider",
+        "name":"一起看TV",
+        "api":"csp_YQKAPP",
+        "type":3,
+        "filterable":1,
+        "playerType":2,
+        "quickSearch":1,
+        "searchable":1,
+        "ext":"https://api-tx.shumaxc.xyz"
+        },
     {
       "key":"js豆瓣",
       "name":"豆瓣热播DR",
