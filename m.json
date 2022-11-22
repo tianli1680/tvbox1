@@ -346,16 +346,6 @@
       ]
     },
     {
-      "key": "csp_XBPQ厂长资源",
-      "name": "🏭厂长(XB)",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/厂长资源.json"
-    },
-    {
       "key": "csp_biubiu_骚火电影",
       "name": "🔥骚火电影",
       "type": 3,
