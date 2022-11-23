@@ -25,7 +25,7 @@
 	  "quickSearch":1,
 	  "searchable":1,
 	  "ext":"https://api-tx.shumaxc.xyz",
-	  "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/czzy1122.jar;md5;86313361c18c73747f644e5e5156d2ca"
+	  "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1"
 	},
     {
       "key": "csp_XYQ_lu1",
@@ -65,7 +65,7 @@
 	  "quickSearch":1,
 	  "filterable":0,
 	  "ext":"http://47.104.99.175",
-"jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/czzy1122.jar;md5;86313361c18c73747f644e5e5156d2ca"
+	  "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1"
 	 },
     {
       "key": "drpy_js_看视界",
@@ -237,7 +237,7 @@
       "playerType":2,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/czzy1122.jar;md5;86313361c18c73747f644e5e5156d2ca"
+	  "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1"
     },
     {
      "key":"csp_DiDuan",
