@@ -181,60 +181,6 @@
       "filterable": 0
     },
 
-{"key":"csp_GitCafe","name":"🏌小纸条1","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"c3895f91c81741959c22feb5fe3a5def","jar":"https://download.kstore.space/download/2883/pandazt.jar;md5;B965FFDF88F07652189D6416BA83164C"},
-{"key":"Gitcafe","name":"🏸小纸条2","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://download.kstore.space/download/2883/vwnp4a7z.json","jar":"https://download.kstore.space/download/2883/pandazt2.jar;md5;E0924826E82AA56B850549B520BFD67F"},
-
-        {
-      "key": "美食",
-      "name": "🍔中华美食",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://52bsj.vip:81/api/v3/file/get/60158/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json?sign=NR7zUyPo-BZwpfNh5uG0Pu3UMSDiOo8rlsoCgIGT3bo%3D%3A0"
-    },
-   {   "key": "戏曲",
-      "name": "💽戏曲合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://52bsj.vip:81/api/v3/file/get/60145/%E6%88%8F%E6%9B%B2%E5%90%88%E9%9B%86.json?sign=-w8Fcd-t7nXv6JCn-kzsp4xFvni-PBfGYCaphVTewY8%3D%3A0"
-    },
-    {
-      "key": "相声小品",
-      "name": "️🦊相声小品",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://52bsj.vip:81/api/v3/file/get/60100/Blixs.json?sign=Cpe4Im4iDYhjY0ygyWGzXBoIASGd_5YCVmz6ePysjiI%3D%3A0"
-    },
-    {
-      "key": "音乐",
-      "name": "🦋音乐现场",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://52bsj.vip:81/api/v3/file/get/60166/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json?sign=Oja6_pNvkS3Vz-0u4P0Xr0n78W_MuwWQAjhX_QM0Zb4%3D%3A0"
-    },
-
-    {
-      "key": "热舞",
-      "name": "💃女团热舞",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://52bsj.vip:81/api/v3/file/get/60134/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json?sign=BAYXJbWjP_T1YoXJ4aV0Aqz6Rg-2aM9GCp_XN7RYLKw%3D%3A0"
-    },
-
        {
             "key" : "py_cctv",
             "name" : "🌏央视频道",
@@ -354,15 +300,7 @@
             "quickSearch" : 0,
             "filterable" : 1,
             "ext" : "http://52bsj.vip:81/api/v3/file/get/60052/py_cctvjs.txt?sign=7KJH4YEQ7aLykvV_3ofuOT6HA-9C0kbBtgfaAD3iod4%3D%3A0"
-        },
-{"key" : "csp_xpath_球迷直播","name" : "🏈世界杯直播jar","type" : 3,"api" : "csp_XPath","searchable" : 0,"quickSearch" : 0,"filterable" : 0,"ext" : "https://download.kstore.space/download/2883/JRKAN%E7%9B%B4%E6%92%AD.json","jar":"https://download.kstore.space/download/2883/panda1122.jar;md5;BA8452F160ACC87B1D10581F622591A1"},
-{"key" : "drpy_js_JRKAN直播","name" : "⚾️世界杯直播js","type" : 3,"api" : "https://download.kstore.space/download/2883/drpy.min.js","ext" : "https://download.kstore.space/download/2883/%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9B%B4%E6%92%AD.js"},
-{"key": "dr_88看球","name": "🎾88看球js","type": 3,"api": "https://download.kstore.space/download/2883/drpy.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://download.kstore.space/download/2883/88%E7%9C%8B%E7%90%83.js"}, 
-//{"key":"YQK_spider","name":"⛳️一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},	
-{"key":"csp_GitCafe","name":"🏌小纸条1","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"c3895f91c81741959c22feb5fe3a5def","jar":"https://download.kstore.space/download/2883/pandazt.jar;md5;B965FFDF88F07652189D6416BA83164C"},
-{"key":"Gitcafe","name":"🏸小纸条2","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://download.kstore.space/download/2883/vwnp4a7z.json","jar":"https://download.kstore.space/download/2883/pandazt2.jar;md5;E0924826E82AA56B850549B520BFD67F"}
-
-            
+        }        
 ],
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
