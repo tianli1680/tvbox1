@@ -119,14 +119,14 @@
       "key": "zhibo13",
       "name": "🐜蚂蚁直播",
       "type": 4,
-      "api": "http://120.53.102.254/live?url=hhttps://download.kstore.space/download/2883/1114.txt",
+      "api": "http://120.53.102.254/live?url=https://download.kstore.space/download/2883/1114.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },    
 {
       "key": "zhibo14",
-      "name": "🌊星辰直播",
+      "name": "⭐︎星辰直播",
       "type": 4,
       "api": "http://120.53.102.254/live?url=http://52bsj.vip:98/xczb",
       "searchable": 1,
@@ -135,7 +135,7 @@
     },
     {
       "key": "zhibo15",
-      "name": "🆎大海TV",
+      "name": "🌊大海TV",
       "type": 4,
       "api": "http://120.53.102.254/live?url=http://shuyuan.miaogongzi.net/shuyuan/1669318093.txt",
       "searchable": 1,
