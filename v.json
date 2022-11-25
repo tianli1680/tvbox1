@@ -769,7 +769,8 @@
       "api": "csp_Yj1211",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 0,
+      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1"
     },
     {
 		"key": "py_huya",
