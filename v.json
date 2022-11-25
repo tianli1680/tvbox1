@@ -1564,7 +1564,7 @@
             "url": "Sequence"
         },
         {
-            "name": "ckflv",
+            "name": "1号线",
             "type": 1,
             "url": "http://api.ckflv.cn/?url=",
             "ext": {
@@ -1592,7 +1592,7 @@
             }
         },
         {
-            "name": "tkys",
+            "name": "2号线",
             "type": 1,
             "url": "https://rx.bt5v.com/json/jsonindex.php/?url=",
             "ext": {
@@ -1619,7 +1619,7 @@
             }
         },
         {
-            "name": "xifanys",
+            "name": "3号线",
             "type": 1,
             "url": "http://www.pandown.pro/app/tkys/tkysjx.php?url=",
             "ext": {
@@ -1646,7 +1646,7 @@
             }
         },
         {
-            "name": "酷享影视",
+            "name": "4号线",
             "type": 1,
             "url": "http://pandown.pro/app/kxjx.php?url=",
             "ext": {
@@ -1674,7 +1674,7 @@
             }
         },
         {
-            "name": "江湖",
+            "name": "5号线",
             "type": 1,
             "url": "http://pandown.pro/app/ysmjx.php?url=",
             "ext": {
@@ -1696,7 +1696,7 @@
             }
         },
         {
-            "name": "左岸",
+            "name": "6号线",
             "type": 1,
             "url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=",
             "ext": {
@@ -1724,7 +1724,7 @@
             }
         },
         {
-            "name": "keyu",
+            "name": "7号线",
             "type": 1,
             "url": "http://newjiexi.gotka.top/keyu3.php?url=",
             "ext": {
