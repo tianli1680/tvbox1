@@ -74,17 +74,6 @@
 "ext":"http://118.190.144.126",
 "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1"
 },
-{
-"key":"sliu_spider",
-"name":" 🍊石榴电影",
-"api":"csp_ShiLiuDY",
-"type":3,
-"filterable":1,
-"playerType":2,
-"quickSearch":1,
-"searchable":1,
-"jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1"
-},
     {
       "key": "drpy_js_看视界",
       "name": "🎉看视界🎉",
