@@ -34,6 +34,17 @@
       "filterable": 1
     },
     {
+      "key":"csp_AppTT",
+      "name":"🗺️图图影视",
+      "type":3,
+      "api":"csp_AppTT",
+      "playerType":2,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"http://110.42.6.212:7788"
+      },
+    {
       "key": "drpy_js_看视界",
       "name": "🎉看视界🎉",
       "type": 3,
@@ -194,6 +205,16 @@
       "filterable": 1,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/czspp2.py"
     },
+    {
+      "key":"csp_Czsapp",
+      "name":"🏭️厂长(SP)",
+      "type":3,
+      "api":"csp_Czsapp",
+      "playerType":2,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+      },
     {
      "key":"csp_DiDuan",
      "name":"🐞低端影视",
@@ -1956,5 +1977,5 @@
         "cms.qdwght.com"
     ],
   "wallpaper": "http://leevi.ct8.pl/bg.php",
-  "spider": "https://gitlab.com/duomv/duo/-/raw/main/jar/duov.jar;md5;6BF2FCBE50B975602B069C8E54AA938F"
+  "spider": "https://gitlab.com/duomv/duo/-/raw/main/jar/duovv.jar;md5;e80798750eca57470f29d1942bce39bb"
 }
