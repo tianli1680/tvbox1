@@ -250,8 +250,8 @@
       "searchable": 1,
       "playerType":2,
       "quickSearch": 1,
-      "filterable": 1,
-	  "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1"
+      "filterable": 0,
+	    "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/tutu1125.jar;md5;0625422b0f75c1a69705c7d30eded699"
     },
     {
      "key":"csp_DiDuan",
