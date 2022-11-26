@@ -206,15 +206,15 @@
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/czspp2.py"
     },
     {
-      "key":"csp_Czsapp",
+      "key":"csp_CZSPP",
       "name":"🏭️厂长(SP)",
       "type":3,
       "api":"csp_Czsapp",
-      "playerType":2,
       "searchable":1,
       "quickSearch":1,
-      "filterable":1
-      },
+      "filterable":1,
+      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/czjar.zip"
+    }，
     {
      "key":"csp_DiDuan",
      "name":"🐞低端影视",
