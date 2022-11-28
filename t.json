@@ -831,7 +831,7 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":1,
-     "ext":"1bd7580651534238b33ea598da5c09ce"
+     "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.json"
      },
     {
       "key":"Yisou",
@@ -842,7 +842,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
+      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.json"
       },
     {
       "key":"Zhaozy",
@@ -853,7 +853,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
+      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.json"
       },
     {
       "key":"Upyunso",
@@ -864,7 +864,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
+      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.json"
       },
     {
       "key":"Alips",
@@ -875,7 +875,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
+      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.json"
       },
     {
       "key":"push_agent",
@@ -886,7 +886,7 @@
       "searchable":0,
       "quickSearch":0,
       "filterable":0,
-      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
+      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.json"
       },
    {
       "key": "csp_xpath_yinfans",
