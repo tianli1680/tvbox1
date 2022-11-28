@@ -835,7 +835,7 @@
       },
     {
       "key":"Yisou",
-      "name":"😹易搜┃搜索",
+      "name":"🎯易搜",
       "type":3,
       "api":"csp_Yisou",
       "playerType":1,
@@ -846,7 +846,7 @@
       },
     {
       "key":"Zhaozy",
-      "name":"🐺找资源┃搜索",
+      "name":"🔍找资源",
       "type":3,
       "api":"csp_Zhaozy",
       "playerType":1,
@@ -857,7 +857,7 @@
       },
     {
       "key":"Upyunso",
-      "name":"😻云搜┃搜索",
+      "name":"😻云搜",
       "type":3,
       "api":"csp_Upyunso",
       "playerType":1,
@@ -868,7 +868,7 @@
       },
     {
       "key":"Alips",
-      "name":"🦊盘搜┃搜索",
+      "name":"📀盘搜",
       "type":3,
       "api":"csp_AliPS",
       "playerType":1,
@@ -879,7 +879,7 @@
       },
     {
       "key":"push_agent",
-      "name":"🛴手机┃推送",
+      "name":"📨推送",
       "type":3,
       "api":"csp_PushAgent",
       "playerType":1,
