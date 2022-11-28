@@ -823,59 +823,69 @@
       "filterable": 0
     },
     {
-      "key": "Gitcafe",
-      "name": "🔖小纸条",
-      "type": 3,
-      "api": "csp_Gitcafe",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"aab06deba94f40e2bcc30dcd658a2a98",
-      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/ali.zip"
+      "key":"csp_GitCafe",
+      "name":"🔖小纸条",
+      "type":3,
+      "api":"csp_Gitcafe",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
+      },
+    {"key":"Yisou",
+    "name":"🎯易搜",
+    "type":3,
+    "api":"csp_Yisou",
+    "playerType":1,
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
     },
-    {
-      "key": "csp_Zhaozy",
-      "name": "🔍找资源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext":"aab06deba94f40e2bcc30dcd658a2a98",
-      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/sou.jar"
+  {
+    "key":"Zhaozy",
+    "name":"🔍找资源",
+    "type":3,
+    "api":"csp_Zhaozy",
+    "playerType":1,
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
+  },
+  {
+    "key":"Upyunso",
+    "name":"🌥️云搜",
+    "type":3,
+    "api":"csp_Upyunso",
+    "playerType":1,
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
+  },
+  {
+    "key":"Alips",
+    "name":"📀盘搜",
+    "type":3,
+    "api":"csp_AliPS",
+    "playerType":1,
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
     },
-    {
-      "key": "csp_Yisou",
-      "name": "🎯易搜",
-      "type": 3,
-      "api": "csp_Yisou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext":"aab06deba94f40e2bcc30dcd658a2a98",
-      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/sou.jar"
-    },
-    {
-      "key": "csp_AliPS",
-      "name": "📀盘搜",
-      "type": 3,
-      "api": "csp_AliPS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext":"aab06deba94f40e2bcc30dcd658a2a98",
-      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/sou.jar"
-    },
-    {
-      "key": "push_agent",
-      "name": "📨推送",
-      "type": 3,
-      "api": "csp_PushAgent",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext":"aab06deba94f40e2bcc30dcd658a2a98",
-      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/sou.jar"
+  {
+    "key":"push_agent",
+    "name":"📨推送",
+    "type":3,
+    "api":"csp_PushAgent",
+    "playerType":1,
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":0,
+    "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
     },
    {
       "key": "csp_xpath_yinfans",
@@ -1518,7 +1528,7 @@
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/555%E7%94%B5%E5%BD%B1.json"
     }
   ],
-  "spider":"https://gitlab.com/duomv/duo/-/raw/main/jar/duovv.jar;md5;e80798750eca57470f29d1942bce39bb",
+  "spider":"https://gitlab.com/duomv/duo/-/raw/main/jar/duovv.jar;md5;FB9A83E680FA793EBBC983FEB8E42304",
   "wallpaper":"http://leevi.ct8.pl/bg.php",
   "lives": [
     {
