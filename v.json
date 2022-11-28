@@ -843,49 +843,59 @@
       "filterable":1,
       "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
       },
-    {
-      "key": "csp_Zhaozy",
-      "name": "🔍找资源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext":"aab06deba94f40e2bcc30dcd658a2a98",
-      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/sou.jar"
+    {"key":"Yisou",
+    "name":"🎯易搜",
+    "type":3,
+    "api":"csp_Yisou",
+    "playerType":1,
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
     },
-    {
-      "key": "csp_Yisou",
-      "name": "🎯易搜",
-      "type": 3,
-      "api": "csp_Yisou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext":"aab06deba94f40e2bcc30dcd658a2a98",
-      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/sou.jar"
+  {
+    "key":"Zhaozy",
+    "name":"🔍找资源",
+    "type":3,
+    "api":"csp_Zhaozy",
+    "playerType":1,
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
+  },
+  {
+    "key":"Upyunso",
+    "name":"🌥️云搜",
+    "type":3,
+    "api":"csp_Upyunso",
+    "playerType":1,
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
+  },
+  {
+    "key":"Alips",
+    "name":"📀盘搜",
+    "type":3,
+    "api":"csp_AliPS",
+    "playerType":1,
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
     },
-    {
-      "key": "csp_AliPS",
-      "name": "📀盘搜",
-      "type": 3,
-      "api": "csp_AliPS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext":"aab06deba94f40e2bcc30dcd658a2a98",
-      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/sou.jar"
-    },
-    {
-      "key": "push_agent",
-      "name": "📨推送",
-      "type": 3,
-      "api": "csp_PushAgent",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext":"aab06deba94f40e2bcc30dcd658a2a98",
-      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/sou.jar"
+  {
+    "key":"push_agent",
+    "name":"📨推送",
+    "type":3,
+    "api":"csp_PushAgent",
+    "playerType":1,
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":0,
+    "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
     },
    {
       "key": "csp_xpath_yinfans",
