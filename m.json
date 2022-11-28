@@ -6,7 +6,7 @@
 //{ "key":"douban","name":"🍀公众号:应用多多,更新时间:2022/11/17","type":4, "api":"http://top.fuqizhishi.com/vod","searchable": 0,"quickSearch":0,"filterable": 0 },
     {
       "key":"js豆瓣",
-      "name":"🍀公众号:应用多多,更新时间:2022/11/28",
+      "name":"🍀公众号:应用多多,更新时间:2022/11/29",
       "type":3,
       "api":"https://gitlab.com/duomv/duo/-/raw/main/js/yingmo.js",
       "ext":"https://gitlab.com/duomv/duo/-/raw/main/js/douban.js",
@@ -483,7 +483,7 @@
     },
     {
       "key":"csp_XPath_鹅直播",
-      "name":"🏀企鹅直播",
+      "name":"⚽企鹅直播",
       "type":3,
       "api":"csp_XPath3",
       "searchable":0,
@@ -493,7 +493,7 @@
       },
     {
       "key": "17kan",
-      "name": "⚽17看球",
+      "name": "🏀17看球",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 0,
@@ -503,7 +503,7 @@
     },
     {
       "key": "dr_88看球",
-      "name": "🏀88看球",
+      "name": "⚽88看球",
       "type": 3,
       "api": "https://gitlab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 0,
@@ -513,7 +513,7 @@
     },
     {
       "key": "csp_XYQBiu_310直播",
-      "name": "⚽310直播",
+      "name": "🏀310直播",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 0,
@@ -523,13 +523,23 @@
     },
     {
       "key": "JRS看球网",
-      "name": "🏀JRS看球",
+      "name": "⚽JRS看球",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/JRS%E7%9C%8B%E7%90%83%E7%BD%91.json"
+    },
+    {
+      "key": "dr_JRKAN直播",
+      "name": "🏀JRK直播",
+      "type": 3,
+      "api": "https://gitlab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gitlab.com/duomv/duo/-/raw/main/js/JRKAN.js"
     },
     {
       "key": "csp_xBPQ_抓饭体育",
@@ -540,17 +550,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "{\"分类url\":\"https://www.zhuafan.tech/sports-home/category/{cateId}\",\"分类\":\"全部$/all#足球$Football#篮球$Basketball#羽乒$Badminton#台球$Billiards#棒球$Baseball#户外$Outdoors#搏击$Wrestling#综合$Others#棋盘$Boardgame#电竞$Popular#网球$Tennis#排球$Volleyball#聊天$Chat#原声$Acoustic\",\"热门推荐\":\"1\",\"起始页\":\"1\",\"直接播放\":\"1\",\"数组\":\"{&&}\",\"图片\":\"imageUrl\\\":\\\"&&\\\"\",\"标题\":\"cname\\\":\\\"&&\\\"\",\"链接\":\"id\\\":\\\"&&\\\"\",\"链接前缀\":\"https://www.zhuafan.tech/\"}"
-    },
-
-    {
-      "key": "dr_JRKAN直播",
-      "name": "🏀JRK直播",
-      "type": 3,
-      "api": "https://gitlab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/js/JRKAN.js"
     },
     {
       "key": "csp_Bili",
@@ -713,6 +712,7 @@
       "filterable": 1,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/Bili/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"
     },
+
     {
       "key": "短视频聚合",
       "name": "📱短视频聚合",
@@ -735,7 +735,7 @@
     },
     {
 		"key": "py_huya",
-		"name": "🐯虎牙（PY）",
+		"name": "🐯虎牙(PY)",
 		"type": 3,
 		"api": "py_huya",
 		"searchable": 0,
@@ -755,7 +755,7 @@
     },
  {
 		"key": "py_douyu",
-		"name": "🦈斗鱼（PY）",
+		"name": "🦈斗鱼(PY)",
 		"type": 3,
 		"api": "py_douyu",
 		"searchable": 0,
@@ -833,60 +833,61 @@
       "filterable":1,
       "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
       },
-    {"key":"Yisou",
-    "name":"🎯易搜",
-    "type":3,
-    "api":"csp_Yisou",
-    "playerType":1,
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":0,
-    "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
-    },
-  {
-    "key":"Zhaozy",
-    "name":"🔍找资源",
-    "type":3,
-    "api":"csp_Zhaozy",
-    "playerType":1,
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":0,
-    "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
-  },
-  {
-    "key":"Upyunso",
-    "name":"🌥️云搜",
-    "type":3,
-    "api":"csp_Upyunso",
-    "playerType":1,
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":0,
-    "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
-  },
-  {
-    "key":"Alips",
-    "name":"📀盘搜",
-    "type":3,
-    "api":"csp_AliPS",
-    "playerType":1,
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":0,
-    "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
-    },
-  {
-    "key":"push_agent",
-    "name":"📨推送",
-    "type":3,
-    "api":"csp_PushAgent",
-    "playerType":1,
-    "searchable":0,
-    "quickSearch":0,
-    "filterable":0,
-    "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
-    },
+    {
+      "key":"Yisou",
+      "name":"🎯易搜",
+      "type":3,
+      "api":"csp_Yisou",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
+      },
+    {
+      "key":"Zhaozy",
+      "name":"🔍找资源",
+      "type":3,
+      "api":"csp_Zhaozy",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
+      },
+    {
+      "key":"Upyunso",
+      "name":"🌤️云搜",
+      "type":3,
+      "api":"csp_Upyunso",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
+      },
+    {
+      "key":"Alips",
+      "name":"📀盘搜",
+      "type":3,
+      "api":"csp_AliPS",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
+      },
+    {
+      "key":"push_agent",
+      "name":"📨推送",
+      "type":3,
+      "api":"csp_PushAgent",
+      "playerType":1,
+      "searchable":0,
+      "quickSearch":0,
+      "filterable":0,
+      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.txt"
+      },
    {
       "key": "csp_xpath_yinfans",
       "name": "💥音范丝4K",
