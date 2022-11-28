@@ -1550,7 +1550,13 @@
             "url": "Sequence"
         },
         {
-            "name": "1号线",
+          "name":"1号线",
+          "type":1,
+          "url":"http://150.158.175.250:88/parse/sign/812a0f3b8a7ae9dbf90f3d7fac9c8cbc?url=",
+          "header":{"User-Agent":"Mozilla/5.0"}
+          },
+        {
+            "name": "2号线",
             "type": 1,
             "url": "http://api.ckflv.cn/?url=",
             "ext": {
@@ -1578,7 +1584,7 @@
             }
         },
         {
-            "name": "2号线",
+            "name": "3号线",
             "type": 1,
             "url": "https://rx.bt5v.com/json/jsonindex.php/?url=",
             "ext": {
@@ -1605,7 +1611,7 @@
             }
         },
         {
-            "name": "3号线",
+            "name": "4号线",
             "type": 1,
             "url": "http://www.pandown.pro/app/tkys/tkysjx.php?url=",
             "ext": {
@@ -1632,7 +1638,7 @@
             }
         },
         {
-            "name": "4号线",
+            "name": "5号线",
             "type": 1,
             "url": "http://pandown.pro/app/kxjx.php?url=",
             "ext": {
@@ -1660,7 +1666,7 @@
             }
         },
         {
-            "name": "5号线",
+            "name": "6号线",
             "type": 1,
             "url": "http://pandown.pro/app/ysmjx.php?url=",
             "ext": {
@@ -1682,7 +1688,7 @@
             }
         },
         {
-            "name": "6号线",
+            "name": "7号线",
             "type": 1,
             "url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=",
             "ext": {
@@ -1710,7 +1716,7 @@
             }
         },
         {
-            "name": "7号线",
+            "name": "8号线",
             "type": 1,
             "url": "http://newjiexi.gotka.top/keyu3.php?url=",
             "ext": {
