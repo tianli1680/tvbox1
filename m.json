@@ -822,17 +822,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
-      "key":"csp_GitCafe",
-      "name":"🔖小纸条",
-      "type":3,
-      "api":"csp_Gitcafe",
-      "playerType":1,
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"http://ali.饭太硬.ml/tok"
-      },
+    {"key":"csp_GitCafe","name":"🔖小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch ":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
     {
       "key":"Yisou",
       "name":"🎯易搜",
