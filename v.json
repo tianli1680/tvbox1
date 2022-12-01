@@ -822,7 +822,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-{"key":"csp_GitCafe","name":"🔖小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch ":1,"filterable":1,"ext":"https://gitcode.net/q284855646/duo/-/raw/master/al.txt"},
+{"key":"csp_GitCafe","name":"🔖小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch ":1,"filterable":1,"ext":"http://leevi.ct8.pl/al.txt"},
     {
       "key":"Yisou",
       "name":"🎯易搜",
@@ -832,7 +832,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"https://gitcode.net/q284855646/duo/-/raw/master/al.txt"
+      "ext":"http://leevi.ct8.pl/al.txt"
       },
     {
       "key":"Zhaozy",
@@ -843,7 +843,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"https://gitcode.net/q284855646/duo/-/raw/master/al.txt"
+      "ext":"http://leevi.ct8.pl/al.txt"
       },
     {
       "key":"Upyunso",
@@ -854,7 +854,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"https://gitcode.net/q284855646/duo/-/raw/master/al.txt"
+      "ext":"http://leevi.ct8.pl/al.txt"
       },
     {
       "key":"Alips",
@@ -865,7 +865,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"https://gitcode.net/q284855646/duo/-/raw/master/al.txt"
+      "ext":"http://leevi.ct8.pl/al.txt"
       },
     {
       "key":"push_agent",
@@ -876,7 +876,7 @@
       "searchable":0,
       "quickSearch":0,
       "filterable":0,
-      "ext":"https://gitcode.net/q284855646/duo/-/raw/master/al.txt"
+      "ext":"http://leevi.ct8.pl/al.txt"
       },
    {
       "key": "csp_xpath_yinfans",
