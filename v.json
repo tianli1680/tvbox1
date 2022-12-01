@@ -831,7 +831,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://gitee.com/leevi0321/api/raw/master/al.txt"
+      "ext":"https://leevi0321.gitee.io/api/al.php"
       },
     {
       "key":"Yisou",
@@ -842,7 +842,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"https://gitee.com/leevi0321/api/raw/master/al.txt"
+      "ext":"https://leevi0321.gitee.io/api/al.php"
       },
     {
       "key":"Zhaozy",
@@ -853,7 +853,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"https://gitee.com/leevi0321/api/raw/master/al.txt"
+      "ext":"https://leevi0321.gitee.io/api/al.php"
       },
     {
       "key":"Upyunso",
@@ -864,7 +864,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"https://gitee.com/leevi0321/api/raw/master/al.txt"
+      "ext":"https://leevi0321.gitee.io/api/al.php"
       },
     {
       "key":"Alips",
@@ -875,7 +875,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"https://gitee.com/leevi0321/api/raw/master/al.txt"
+      "ext":"https://leevi0321.gitee.io/api/al.php"
       },
     {
       "key":"push_agent",
@@ -886,7 +886,7 @@
       "searchable":0,
       "quickSearch":0,
       "filterable":0,
-      "ext":"https://gitee.com/leevi0321/api/raw/master/al.txt"
+      "ext":"https://leevi0321.gitee.io/api/al.php"
       },
    {
       "key": "csp_xpath_yinfans",
