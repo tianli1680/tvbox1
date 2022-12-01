@@ -822,7 +822,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-{"key":"csp_GitCafe","name":"🔖小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch ":1,"filterable":1,"ext":"http://leevi.ct8.pl/al.txt"},
+{"key":"csp_GitCafe","name":"🔖小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch ":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
     {
       "key":"Yisou",
       "name":"🎯易搜",
@@ -832,7 +832,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"http://leevi.ct8.pl/al.txt"
+      "ext":"http://ali.饭太硬.ml/tok"
       },
     {
       "key":"Zhaozy",
@@ -843,7 +843,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"http://leevi.ct8.pl/al.txt"
+      "ext":"http://ali.饭太硬.ml/tok"
       },
     {
       "key":"Upyunso",
@@ -854,7 +854,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"http://leevi.ct8.pl/al.txt"
+      "ext":"http://ali.饭太硬.ml/tok"
       },
     {
       "key":"Alips",
@@ -865,7 +865,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"http://leevi.ct8.pl/al.txt"
+      "ext":"http://ali.饭太硬.ml/tok"
       },
     {
       "key":"push_agent",
@@ -876,7 +876,7 @@
       "searchable":0,
       "quickSearch":0,
       "filterable":0,
-      "ext":"http://leevi.ct8.pl/al.txt"
+      "ext":"http://ali.饭太硬.ml/tok"
       },
    {
       "key": "csp_xpath_yinfans",
