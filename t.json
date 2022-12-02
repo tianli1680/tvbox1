@@ -3,10 +3,10 @@
 //关注公众号【应用多多】回复“接口”，获取最新接口
 {
   "sites": [
-//{ "key":"douban","name":"🍀公众号:应用多多,更新时间:2022/11/17","type":4, "api":"http://top.fuqizhishi.com/vod","searchable": 0,"quickSearch":0,"filterable": 0 },
+//{ "key":"douban","name":"🍀公众号:应用多多","type":4, "api":"http://top.fuqizhishi.com/vod","searchable": 0,"quickSearch":0,"filterable": 0 },
     {
       "key":"js豆瓣",
-      "name":"🍀公众号:应用多多,更新时间:2022/11/29",
+      "name":"🍀公众号:应用多多提醒您：请勿相信视频中的广告及付款信息",
       "type":3,
       "api":"https://gitlab.com/duomv/duo/-/raw/main/js/yingmo.js",
       "ext":"https://gitlab.com/duomv/duo/-/raw/main/js/douban.js",
@@ -42,7 +42,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"http://110.42.6.212:7788"
+      "ext":"https://leevi0321.gitee.io/api/tuapi.php"
       },
     {
       "key": "drpy_js_看视界",
@@ -822,16 +822,16 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
+   {
      "key":"csp_GitCafe",
-     "name":"📜小纸条",
+     "name":"🔖小纸条",
      "type":3,
      "api":"csp_Gitcafe",
      "playerType":1,
      "searchable":1,
-     "quickSearch":1,
+     "quickSearch ":1,
      "filterable":1,
-     "ext":"https://agit.ai/leevi/apps/raw/branch/main/ali.txt"
+     "ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json"
      },
     {
       "key":"Yisou",
@@ -842,7 +842,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.json"
+      "ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json"
       },
     {
       "key":"Zhaozy",
@@ -853,7 +853,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.json"
+      "ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json"
       },
     {
       "key":"Upyunso",
@@ -864,7 +864,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.json"
+      "ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json"
       },
     {
       "key":"Alips",
@@ -875,7 +875,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.json"
+      "ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json"
       },
     {
       "key":"push_agent",
@@ -886,7 +886,7 @@
       "searchable":0,
       "quickSearch":0,
       "filterable":0,
-      "ext":"https://gitlab.com/duomv/duo/-/raw/main/txt/al.json"
+      "ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json"
       },
    {
       "key": "csp_xpath_yinfans",
@@ -1986,5 +1986,5 @@
         "cms.qdwght.com"
   ],
   "wallpaper": "http://leevi.ct8.pl/bg.php",
-  "spider": "https://gitlab.com/duomv/duo/-/raw/main/jar/duoxx.jar;md5;E80798750ECA57470F29D1942BCE39BB"
+  "spider": "https://gitlab.com/duomv/duo/-/raw/main/jar/duox.jar;md5;78E55B1A26DBCF958821B284C405BCFD"
 }
