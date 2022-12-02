@@ -42,7 +42,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://gitlab.com/duomv/duo/-/raw/main/json/tuapi.json"
+      "ext":"http://43.154.35.148:9797/api/tutuapp.php"
       },
     {
       "key": "drpy_js_看视界",
