@@ -42,7 +42,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://leevi0321.gitee.io/api/tuapi.php"
+      "ext":"http://leevi.ct8.pl/tuapi.php"
       },
     {
       "key": "drpy_js_看视界",
@@ -1529,7 +1529,7 @@
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/555%E7%94%B5%E5%BD%B1.json"
     }
   ],
-  "spider":"https://gitlab.com/duomv/duo/-/raw/main/jar/duox.jar;md5;78E55B1A26DBCF958821B284C405BCFD",
+  "spider":"https://gitlab.com/duomv/duo/-/raw/main/jar/duo.jar;md5;13F6E8DAA89215CA4CFBDAD5BB143F6A",
   "wallpaper":"http://leevi.ct8.pl/bg.php",
   "lives": [
     {
