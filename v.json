@@ -199,15 +199,12 @@
       "key": "dr_厂长资源",
       "name": "🏘️厂长(PY)",
       "type": 3,
-      "api": "https://gitlab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "api": "https://gitlab.com/duomv/duo/-/raw/main/js/libmain.js",
       "searchable": 2,
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/js/czspp.js"
     },
-
-
-
     {
       "key":"csp_CZSPP",
       "name":"🏭️厂长(SP)",
