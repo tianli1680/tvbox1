@@ -16,8 +16,8 @@
       "key":"js豆瓣",
       "name":"🍀豆瓣热榜（备用）",
       "type":3,
-      "api":"./js/yingmo.js",
-      "ext":"./js/douban.js",
+      "api":"https://gitlab.com/duomv/duo/-/raw/main/js/yingmo.js",
+      "ext":"https://gitlab.com/duomv/duo/-/raw/main/js/douban.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
