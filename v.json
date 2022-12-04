@@ -194,6 +194,16 @@
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/duodapei.json"
     },
     {
+      "key":"csp_ZJMiao",
+      "name":"📺新视觉",
+      "type":3,
+      "api":"csp_Xinsj",
+      "playerType":2,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+      },
+    {
       "key": "csp_XBPQ极品影视",
       "name": "🌻极品影视",
       "type": 3,
@@ -379,23 +389,13 @@
       },
    {
       "key": "bdys",
-      "name": "📯哔嘀影视",
+      "name": "📯哔嘀XP",
       "type": 3,
       "api": "csp_XPbd",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext":"https://gitlab.com/duomv/duo/-/raw/main/json/bdys.json"
-    },
-    {
-      "key": "csp_biubiu_剧白白-蓝光",
-      "name": "🥒剧白白(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/剧白白-蓝光.json"
     },
     {
       "key":"csp_Dy1010",
@@ -407,23 +407,25 @@
       "filterable":1
       },
     {
-      "key": "mjxq_spider",
-      "name": "🌏美剧星球",
-      "type": 3,
-      "api": "csp_Mjxq",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+      "key":"csp_Mjxq",
+      "name":"🌏美剧星球",
+      "type":3,
+      "api":"csp_Mjxq",
+      "playerType":2,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+      },
     {
-      "key": "小熊",
-      "name": "🐨小熊TV",
-      "type": 3,
-      "api": "csp_Xxys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+      "key":"csp_Xxys",
+      "name":"🐻小熊TV",
+      "type":3,
+      "api":"csp_Xxys",
+      "playerType":2,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+      },
     {
       "key": "csp_Cokemv",
       "name": "🎀Cokemv",
@@ -438,6 +440,7 @@
       "name": "🐼Auete",
       "type": 3,
       "api": "csp_Auete",
+      "playerType":2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
