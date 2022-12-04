@@ -1162,7 +1162,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9jb2RlYmVyZy5vcmcvbGVldmkvZHVvL3Jhdy9icmFuY2gvbWFpbi90eHQvdi50eHQ="
+            "proxy://do=live&type=txt&ext=aHR0cHMlM0EvL2dpdGxhYi5jb20vZHVvbXYvZHVvLy0vcmF3L21haW4vdHh0L3YudHh0"
           ]
         }
       ]
