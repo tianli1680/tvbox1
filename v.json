@@ -142,6 +142,15 @@
       "filterable": 1
     },
     {
+      "key":"csp_Zjdr",
+      "name":"🏃追剧达人",
+      "type":3,
+      "api":"csp_Zjdr",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":1
+     },
+    {
       "key": "csp_xpath_789kp",
       "name": "🎗️数字影院",
       "type": 3,
@@ -357,6 +366,16 @@
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
     },
     {
+      "key":"csp_Lib",
+      "name": "🍲LIB(SP)",
+      "type": 3,
+      "api": "csp_Lib",
+      "playerType":2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+      },
+    {
 		"key": "py_libvio",
 		"name": "🍲LIB(PY)",
 		"type": 3,
@@ -378,7 +397,7 @@
     },
     {
       "key":"csp_fant",
-      "name":"🍙饭团SP",
+      "name":"🍙饭团(SP)",
       "type":3,
       "api":"csp_Fantuan",
       "playerType":2,
@@ -388,7 +407,7 @@
       },
     {
       "key": "csp_XBiubiu_饭团HD",
-      "name": "🍙饭团XB",
+      "name": "🍙饭团(XB))",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -398,7 +417,7 @@
     },
     {
       "key":"csp_Bd",
-      "name":"💥哔嘀SP",
+      "name":"💥哔嘀(SP)",
       "type":3,
       "api":"csp_Bdys01",
       "searchable":1,
@@ -407,7 +426,7 @@
       },
    {
       "key": "bdys",
-      "name": "📯哔嘀XP",
+      "name": "📯哔嘀(XP)",
       "type": 3,
       "api": "csp_XPbd",
       "searchable": 1,
