@@ -237,8 +237,7 @@
       "api":"csp_Czsapp",
       "searchable":1,
       "quickSearch":1,
-      "filterable":1,
-      "jar":"./jar/czjar.zip"
+      "filterable":1
     },
     {
      "key":"csp_DiDuan",
