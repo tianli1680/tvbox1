@@ -3,7 +3,7 @@
   "站名": "电视直播",
   "主页url": "http://www.lu1.cc/c/tv/sjtv/",
   
-  "分类":"频道选择$index.htm",
+  "分类":"频道列表$index.htm",
   
   "分类url":"http://www.lu1.cc/c/tv/sjtv/{cteId}",
   
