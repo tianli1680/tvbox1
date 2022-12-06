@@ -8,7 +8,7 @@
   "分类url":"http://www.lu1.cc/c/tv/sjtv/{cteId}",
   
   "数组": "<li><a&&</li>",
-  "图片":"https://i.niupic.com/images/2022/12/06/abKa.png",
+  "图片":"http://52bsj.vip:81/api/v3/file/get/67649/duotv.jpg?sign=QkQzA5GtJ50CfNlRDse_DQo0Wih5m-H9pzAYH1-o19k%3D%3A0",
   
   "线路数组": "<ul&&</ul>",
   "线路合并": "1",
@@ -17,5 +17,5 @@
   "播放列表": "<a&&/a>",
   "播放标题": ">&&<",
   "播放链接": "href=\"&&\"",
-  "播放图片":"https://i.niupic.com/images/2022/12/06/abKa.png"
+  "播放图片":"http://52bsj.vip:81/api/v3/file/get/67649/duotv.jpg?sign=QkQzA5GtJ50CfNlRDse_DQo0Wih5m-H9pzAYH1-o19k%3D%3A0"
 }
