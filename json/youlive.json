@@ -14,6 +14,6 @@
 "播放数组":"d ncp&&</ul>",
 "播放列表":"<a&&/a>",
 "播放链接":"href=\"&&\"",
-"分类":"足球$zuqiu#篮球$lanqiu#综合$zonghe#经典$jingdian",
+"分类":"足球$zuqiu#篮球$lanqiu#综合$zonghe",
 "分类url":"https://www.yoozhibo.com/{cateId}/{class}/video-p{catePg}.html"
 }
