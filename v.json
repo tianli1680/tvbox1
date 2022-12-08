@@ -513,6 +513,16 @@
       "ext": "./json/310%E7%9B%B4%E6%92%AD.json"
     },
     {
+      "key":"mtv_XBPQ_优直播",
+      "name":"⚽优直播",
+      "type":3,
+      "api":"csp_xBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./json/youlive.json"
+      },
+    {
       "key": "dr_JRKAN直播",
       "name": "🏀JRK直播",
       "type": 3,
