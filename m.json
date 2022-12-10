@@ -20,7 +20,7 @@
     "searchable":0,
     "quickSearch":0,
     "filterable":0
-    },  
+    },
     {
       "key":"csp_xBPQ_dszb",
       "name":"🖥️电视直播",
@@ -50,7 +50,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"http://duo.serv00.net/tuapi.php"
+      "ext":"http://leevi.ct8.pl/tuapi.php"
       },
     {
       "key": "Lezhu_spider",
@@ -1171,7 +1171,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRsYWIuY29tL2R1b212L2R1by8tL3Jhdy9tYWluL3R4dC9tLnR4dA=="
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRsYWIuY29tL2R1b212L2R1by8tL3Jhdy9tYWluL3R4dC92LnR4dA=="
           ]
         }
       ]
