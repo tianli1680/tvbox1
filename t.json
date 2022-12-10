@@ -807,7 +807,7 @@
      "key":"csp_GitCafe",
      "name":"🔖小纸条",
      "type":3,
-     "api":"csp_Gitcafe",
+     "api":"csp_Paper",
      "playerType":1,
      "searchable":1,
      "quickSearch":1,
