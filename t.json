@@ -49,7 +49,8 @@
       "playerType":2,
       "searchable":1,
       "quickSearch":1,
-      "filterable":1
+      "filterable":1,
+      "ext":"http://duo.serv00.net/tuapi.php"
       },
     {
       "key": "Lezhu_spider",
@@ -1412,5 +1413,5 @@
         "cms.qdwght.com"
   ],
   "wallpaper": "https://duo.serv00.net/bg.php",
-  "spider": "./jar/duov.jar;md5;CB2044E54395223759F1385D583AF357"
+  "spider": "./jar/duov.jar;md5;F7ADEB98B6BED190A77781A466B29334"
 }
