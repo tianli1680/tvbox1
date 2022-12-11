@@ -804,7 +804,7 @@
       "filterable": 0
     },
    {
-     "key":"csp_GitCafe",
+     "key":"csp_Paper",
      "name":"🔖小纸条",
      "type":3,
      "api":"csp_Paper",
@@ -812,7 +812,7 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":1,
-     "ext":"http://52bsj.vip:81/api/v3/file/get/65447/token.txt?sign=_Egw2johN-Gc_txhH03HKBzCvmAG6Mar_c5aDXd65ck%3D%3A0"
+     "ext":"http://ali.饭太硬.ml/tok"
      },
     {
       "key":"Yisou",
