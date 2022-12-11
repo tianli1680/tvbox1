@@ -803,17 +803,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-   {
-     "key":"csp_GitCafe",
-     "name":"🔖小纸条",
-     "type":3,
-     "api":"csp_Gitcafe",
-     "playerType":1,
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":1,
-     "ext":"http://52bsj.vip:81/api/v3/file/get/65447/token.txt?sign=_Egw2johN-Gc_txhH03HKBzCvmAG6Mar_c5aDXd65ck%3D%3A0"
-     },
+    {"key":"csp_Paper","name":"🔖小纸条","type":3,"api":"csp_Paper","playerType":2,"searchable":1,"quickSearch ":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
     {
       "key":"Yisou",
       "name":"🎯易搜",
@@ -823,7 +813,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"http://52bsj.vip:81/api/v3/file/get/65447/token.txt?sign=_Egw2johN-Gc_txhH03HKBzCvmAG6Mar_c5aDXd65ck%3D%3A0"
+      "ext":"https://agit.ai/leevi/apps/raw/branch/main/ali.txt"
       },
     {
       "key":"Zhaozy",
@@ -834,7 +824,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"http://52bsj.vip:81/api/v3/file/get/65447/token.txt?sign=_Egw2johN-Gc_txhH03HKBzCvmAG6Mar_c5aDXd65ck%3D%3A0"
+      "ext":"https://agit.ai/leevi/apps/raw/branch/main/ali.txt"
       },
     {
       "key":"Upyunso",
@@ -845,7 +835,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"http://52bsj.vip:81/api/v3/file/get/65447/token.txt?sign=_Egw2johN-Gc_txhH03HKBzCvmAG6Mar_c5aDXd65ck%3D%3A0"
+      "ext":"https://agit.ai/leevi/apps/raw/branch/main/ali.txt"
       },
     {
       "key":"Alips",
@@ -856,7 +846,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"http://52bsj.vip:81/api/v3/file/get/65447/token.txt?sign=_Egw2johN-Gc_txhH03HKBzCvmAG6Mar_c5aDXd65ck%3D%3A0"
+      "ext":"https://agit.ai/leevi/apps/raw/branch/main/ali.txt"
       },
     {
       "key":"push_agent",
@@ -867,7 +857,7 @@
       "searchable":0,
       "quickSearch":0,
       "filterable":0,
-      "ext":"http://52bsj.vip:81/api/v3/file/get/65447/token.txt?sign=_Egw2johN-Gc_txhH03HKBzCvmAG6Mar_c5aDXd65ck%3D%3A0"
+      "ext":"https://agit.ai/leevi/apps/raw/branch/main/ali.txt"
       },
    {
       "key": "csp_xpath_yinfans",
@@ -1413,5 +1403,5 @@
         "cms.qdwght.com"
   ],
   "wallpaper": "https://duo.serv00.net/bg.php",
-  "spider": "./jar/duo.jar;md5;9911B181CCC6865AB387B4BCA1F7C172"
+  "spider": "./jar/duox.jar;md5;203C9B68D5F8F5DDD840099EAD120F80"
 }
