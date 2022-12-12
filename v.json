@@ -803,7 +803,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {"key":"csp_Paper","name":"🔖小纸条","type":3,"api":"csp_Paper","playerType":2,"searchable":1,"quickSearch ":1,"filterable":1,"ext":"https://agit.ai/leevi/apps/raw/branch/main/ali.txt"},
+    {"key":"csp_Paper","name":"🔖小纸条","type":3,"api":"csp_Paper","playerType":2,"searchable":1,"quickSearch ":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
     {
       "key":"Yisou",
       "name":"🎯易搜",
