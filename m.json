@@ -512,9 +512,9 @@
       "filterable": 0,
       "ext": "./json/310%E7%9B%B4%E6%92%AD.json"
     },
-    {
+     {
       "key":"csp_xpath_qiumi",
-      "name":"⚽Jrs球迷",
+      "name":"⚽JRS直播",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
@@ -524,7 +524,7 @@
       },
     {
       "key":"mtv_XBPQ_优直播",
-      "name":"⚽优直播",
+      "name":"🏀优直播",
       "type":3,
       "api":"csp_xBPQ",
       "searchable":1,
@@ -534,7 +534,7 @@
       },
     {
       "key": "dr_JRKAN直播",
-      "name": "🏀JRK直播",
+      "name": "⚽JRK直播",
       "type": 3,
       "api": "./js/drpymin.js",
       "searchable": 0,
@@ -544,7 +544,7 @@
     },
     {
       "key": "csp_xBPQ_抓饭体育",
-      "name": "️⚽抓饭体育",
+      "name": "️🏀抓饭体育",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 1,
