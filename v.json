@@ -880,6 +880,16 @@
       "ext":"./json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"
     },
     {
+      "key":"csp_xBPQ_胖虎",
+      "name":"🐯胖虎影视",
+      "type":3,
+      "api":"csp_xBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"./json/panghu.json"
+    },
+    {
       "key": "csp_biubiu_在线之家",
       "name": "🏠在线之家",
       "type": 3,
