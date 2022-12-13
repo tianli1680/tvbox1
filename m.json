@@ -815,10 +815,10 @@
     },
     {
       "key":"csp_Paper",
-      "name":"🔖小纸条exo",
+      "name":"🔖小纸条",
       "type":3,
       "api":"csp_Paper",
-      "playerType":2,
+      "playerType":1,
       "searchable":1,
       "quickSearch ":1,
       "filterable":1,
@@ -1434,5 +1434,5 @@
         "cms.qdwght.com"
   ],
   "wallpaper": "https://duo.serv00.net/bg.php",
-  "spider": "./jar/duo.jar;md5;12AF5522B1DA30A9626E70C0E3557CA0"
+  "spider": "./jar/duov.jar;md5;357B36C876933AB02FAA8F0D367B298E"
 }
