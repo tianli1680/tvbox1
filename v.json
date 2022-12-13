@@ -254,7 +254,7 @@
       "key": "dr_ddys",
       "name": "🐞低端(PY)",
       "type": 3,
-      "api": ".js/drpymin.js",
+      "api": ".js/drpy.js",
       "searchable": 2,
       "quickSearch": 0,
       "filterable": 0,
