@@ -251,7 +251,7 @@
      "filterable":0
     },
     {
-      "key": "dr_ddys",
+      "key": "drpy_js_ddys",
       "name": "🐞低端(PY)",
       "type": 3,
       "api": ".js/drpy.js",
