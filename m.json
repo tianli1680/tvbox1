@@ -812,7 +812,7 @@
     },
     {
       "key":"csp_Paper",
-      "name":"🔖小纸条",
+      "name":"🔖小纸条exo",
       "type":3,
       "api":"csp_Paper",
       "playerType":2,
