@@ -813,7 +813,17 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {"key":"csp_Paper","name":"🔖小纸条","type":3,"api":"csp_Paper","playerType":2,"searchable":1,"quickSearch ":1,"filterable":1,"ext":"https://agit.ai/leevi/apps/raw/branch/main/ali.txt"},
+    {
+      "key":"csp_Paper",
+      "name":"🔖小纸条",
+      "type":3,
+      "api":"csp_Paper",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch ":1,
+      "filterable":1,
+      "ext":"https://agit.ai/leevi/apps/raw/branch/main/ali.txt"
+      },
     {
       "key":"Yisou",
       "name":"🎯易搜",
@@ -1424,5 +1434,5 @@
         "cms.qdwght.com"
   ],
   "wallpaper": "https://duo.serv00.net/bg.php",
-  "spider": "./jar/duox.jar;md5;203C9B68D5F8F5DDD840099EAD120F80"
+  "spider": "./jar/duo.jar;md5;12AF5522B1DA30A9626E70C0E3557CA0"
 }
