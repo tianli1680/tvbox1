@@ -54,13 +54,23 @@
       },
     {
       "key": "Lezhu_spider",
-      "name": "🐷乐猪影视",
+      "name": "🐷乐猪(SP)",
       "type": 3,
       "api": "csp_Lezhu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
+    {
+      "key":"csp_xBPQ_乐猪影视",
+      "name":"🐷乐猪(XP)",
+      "type":3,
+      "api":"csp_xBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"./json/lezhu.json"
+      },
     {
       "key": "小苹果",
       "name": "🍏小苹果",
