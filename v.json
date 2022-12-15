@@ -42,6 +42,18 @@
       "filterable": 1
     },
     {
+      "key":"csp_app_阿里",
+      "name":"🐼阿里影视",
+      "type":3,
+      "playerType":2,
+      "api":"csp_AppYsV2",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"http://aliys.cn:90/api.php/v1.vod",
+      "jar":"./jar/ali.jar;md5;F06D4045AFF8C7D8E91D5461538EFD67"
+    },
+    {
       "key":"csp_AppTT",
       "name":"🗺️图图影视",
       "type":3,
