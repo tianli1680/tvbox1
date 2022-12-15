@@ -51,7 +51,7 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"http://aliys.cn:90/api.php/v1.vod",
-      "jar":"http://我不是.肥猫.love:63/Jar/panda1206.jar;md5;F06D4045AFF8C7D8E91D5461538EFD67"
+      "jar":"./jar/ali.jar;md5;F06D4045AFF8C7D8E91D5461538EFD67"
     },
     {
       "key":"csp_AppTT",
