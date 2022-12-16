@@ -878,7 +878,7 @@
       "key":"Yisou",
       "name":"🎯易搜",
       "type":3,
-      "api":"csp_Yisou",
+      "api":"csp_YiSo",
       "playerType":1,
       "searchable":1,
       "quickSearch":1,
@@ -911,7 +911,7 @@
       "key":"Alips",
       "name":"📀盘搜",
       "type":3,
-      "api":"csp_AliPS",
+      "api":"csp_PanSou",
       "playerType":1,
       "searchable":1,
       "quickSearch":1,
@@ -922,7 +922,7 @@
       "key":"push_agent",
       "name":"📨推送",
       "type":3,
-      "api":"csp_PushAgent",
+      "api":"csp_Push",
       "playerType":1,
       "searchable":0,
       "quickSearch":0,
@@ -1474,5 +1474,5 @@
         "cms.qdwght.com"
   ],
   "wallpaper": "https://duo.serv00.net/bg.php",
-  "spider":"./jar/duov.jar;md5;5482D962435D6FCE36CB905D6268BB7F"
+  "spider":"./jar/duo.jar;md5;B30F269C182E781A26B6C62593D8DD5D"
 }
