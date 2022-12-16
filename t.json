@@ -851,7 +851,8 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./json/Alist.json"
+      "ext": "./json/Alist.json",
+      "jumpDetail":0,"reversePlay":0,"enable":1
     },
     {
       "key": "csp_bendi",
