@@ -513,6 +513,16 @@
       "ext": "./json/voflix.json"
     },
     {
+      "key":"csp_xBPQ_秋霞",
+      "name":"🌈秋霞影视",
+      "type":3,
+      "api":"csp_xBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"./json/qiuxia.json"
+    },
+    {
       "key": "csp_Anime1",
       "name": "🌸动漫系列",
       "type": 3,
