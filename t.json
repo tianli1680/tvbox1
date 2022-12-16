@@ -125,7 +125,9 @@
       "type":3,
       "api":"csp_XBiubiu",
       "searchable":1,
-      "quickSearch":1,"ext":"./json/naifei.json"
+      "quickSearch":1,
+      "ext":"./json/naifei.json",
+      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"
       },
     {
       "key":"csp_Lgyy",
@@ -144,7 +146,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/voflix.json"
+      "ext": "./json/voflix.json",
+      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"
     },
     {
       "key":"csp_xBPQ_秋霞",
@@ -414,7 +417,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
+      "ext": "./json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json",
+      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"
     },
     {
       "key":"csp_Lib",
@@ -444,7 +448,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": " https://www.libvio.me/type/{cateId}-{catePg}.html"
+      "ext": " https://www.libvio.me/type/{cateId}-{catePg}.html",
+      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"
     },
     {
       "key":"csp_fant",
@@ -464,7 +469,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/%E9%A5%AD%E5%9B%A2HD.json"
+      "ext": "./json/%E9%A5%AD%E5%9B%A2HD.json",
+      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"
     },
     {
       "key":"csp_Bd",
@@ -539,7 +545,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/tingshu.json"
+      "ext": "./json/tingshu.json",
+      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"
     },
     {
 		"key": "py_qie",
@@ -790,8 +797,7 @@
       "api": "csp_Yj1211",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "jar":"./jar/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1"
+      "filterable": 0
     },
     {
 		"key": "py_huya",
@@ -831,7 +837,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./json/%E6%96%97%E9%B1%BC.json"
+      "ext": "./json/%E6%96%97%E9%B1%BC.json",
+      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"      
     },
     {
       "key": "网易CC",
@@ -956,7 +963,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"
+      "ext": "./json/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json",
+      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"      
     },
     {
       "key": "csp_xp_jLgyy",
@@ -966,7 +974,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.json"
+      "ext": "./json/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.json",
+      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"      
     },
     {
       "key": "干饭影视",
@@ -976,7 +985,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/干饭影视.json"
+      "ext": "./json/干饭影视.json",
+      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"
     },
     {
       "key": "口袋影院",
@@ -986,7 +996,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/%E5%8F%A3%E8%A2%8B%E5%BD%B1%E9%99%A2.json"
+      "ext": "./json/%E5%8F%A3%E8%A2%8B%E5%BD%B1%E9%99%A2.json",
+      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"
     },
     {
       "key": "花猫影视",
@@ -996,7 +1007,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/%E8%8A%B1%E7%8C%AB%E5%BD%B1%E8%A7%86.json"
+      "ext": "./json/%E8%8A%B1%E7%8C%AB%E5%BD%B1%E8%A7%86.json",
+      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"
     },
     {
       "key": "利奥影院",
@@ -1016,7 +1028,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/%E5%85%AD%E5%BA%A6%E5%BD%B1%E8%A7%86.json"
+      "ext": "./json/%E5%85%AD%E5%BA%A6%E5%BD%B1%E8%A7%86.json",
+      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"
     },
     {
       "key": "csp_biubiu_dadagui",
@@ -1026,7 +1039,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/%E8%BE%BE%E8%BE%BE%E9%BE%9F.json"
+      "ext": "./json/%E8%BE%BE%E8%BE%BE%E9%BE%9F.json",
+      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"      
     },
     {
       "key": "csp_XBiubiu_TVB云播",
@@ -1036,7 +1050,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/tvb%E4%BA%91%E6%92%AD.json"
+      "ext": "./json/tvb%E4%BA%91%E6%92%AD.json",
+      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"      
     },
     {
       "key": "COKEMV",
@@ -1046,7 +1061,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/COKEMV.json"
+      "ext": "./json/COKEMV.json",
+      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"      
     },
     {
       "key": "Auete影视",
@@ -1056,7 +1072,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/Auete%E5%BD%B1%E8%A7%86.json"
+      "ext": "./json/Auete%E5%BD%B1%E8%A7%86.json",
+      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"      
     },
     {
       "key": "人人影视",
@@ -1066,7 +1083,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.json"
+      "ext": "./json/%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.json",
+      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"      
     },
     {
       "key": "三九影视",
@@ -1076,7 +1094,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/%E4%B8%89%E4%B9%9D%E5%BD%B1%E8%A7%86.json"
+      "ext": "./json/%E4%B8%89%E4%B9%9D%E5%BD%B1%E8%A7%86.json",
+      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"      
     },
     {
       "key": "csp_XBiubiu_金眼影视",
@@ -1086,7 +1105,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/%E9%87%91%E7%9C%BC%E5%BD%B1%E8%A7%86.json"
+      "ext": "./json/%E9%87%91%E7%9C%BC%E5%BD%B1%E8%A7%86.json",
+      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"
     },
     {
       "key": "csp_XBiubiu_Nike影视",
@@ -1096,7 +1116,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/Nike%E5%BD%B1%E8%A7%86.json"
+      "ext": "./json/Nike%E5%BD%B1%E8%A7%86.json",
+      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"      
     },
     {
       "key": "去看动漫",
@@ -1106,7 +1127,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/%E5%8E%BB%E7%9C%8B%E5%8A%A8%E6%BC%AB.json"
+      "ext": "./json/%E5%8E%BB%E7%9C%8B%E5%8A%A8%E6%BC%AB.json",
+      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"      
     },
     {
       "key": "动漫直链",
@@ -1116,7 +1138,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/%E5%8A%A8%E6%BC%AB%E7%9B%B4%E9%93%BE.json"
+      "ext": "./json/%E5%8A%A8%E6%BC%AB%E7%9B%B4%E9%93%BE.json"      
     },
     {
       "key": "csp_biubiu_风车动漫",
@@ -1126,7 +1148,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/%E9%A3%8E%E8%BD%A6%E5%8A%A8%E6%BC%AB.json"
+      "ext": "./json/%E9%A3%8E%E8%BD%A6%E5%8A%A8%E6%BC%AB.json",
+      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"
     },
     {
       "key": "csp_xpath___动漫巴士",
