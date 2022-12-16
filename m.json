@@ -50,8 +50,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"http://aliys.cn:90/api.php/v1.vod",
-      "jar":"./jar/ali.jar;md5;F06D4045AFF8C7D8E91D5461538EFD67"
+      "ext":"http://aliys.cn:90/api.php/v1.vod"
     },
     {
       "key":"csp_AppTT",
