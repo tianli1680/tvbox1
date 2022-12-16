@@ -123,11 +123,10 @@
       "key":"csp_biubiu_鸭奈飞",
       "name":"🦆鸭奈飞",
       "type":3,
-      "api":"csp_XBiubiu",
+      "api":"csp_xBPQ",
       "searchable":1,
       "quickSearch":1,
-      "ext":"./json/naifei.json",
-      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"
+      "ext":"./json/naifei.json"
       },
     {
       "key":"csp_Lgyy",
@@ -142,12 +141,11 @@
       "key": "csp_biubiu_voflix",
       "name": "🌀voflix(XB)",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_xBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/voflix.json",
-      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"
+      "ext": "./json/voflix.json"
     },
     {
       "key":"csp_xBPQ_秋霞",
@@ -413,12 +411,11 @@
       "key": "csp_biubiu_骚火电影",
       "name": "🔥骚火电影",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_xBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json",
-      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"
+      "ext": "./json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
     },
     {
       "key":"csp_Lib",
@@ -448,8 +445,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": " https://www.libvio.me/type/{cateId}-{catePg}.html",
-      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"
+      "ext": " https://www.libvio.me/type/{cateId}-{catePg}.html"
     },
     {
       "key":"csp_fant",
@@ -462,15 +458,14 @@
       "filterable":1
       },
     {
-      "key": "csp_XBiubiu_饭团HD",
+      "key": "csp_xBPQ_饭团HD",
       "name": "🍙饭团(XB))",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_xBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/%E9%A5%AD%E5%9B%A2HD.json",
-      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"
+      "ext": "./json/%E9%A5%AD%E5%9B%A2HD.json"
     },
     {
       "key":"csp_Bd",
@@ -541,12 +536,11 @@
       "key": "csp_biubiu_ting",
       "name": "📚️听书网",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_xBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/tingshu.json",
-      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"
+      "ext": "./json/tingshu.json"
     },
     {
 		"key": "py_qie",
@@ -833,12 +827,11 @@
       "key": "csp_biubiu_斗鱼",
       "name": "🦈斗鱼XBB",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_xBPQ",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./json/%E6%96%97%E9%B1%BC.json",
-      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"      
+      "ext": "./json/%E6%96%97%E9%B1%BC.json"     
     },
     {
       "key": "网易CC",
@@ -959,56 +952,51 @@
       "key": "csp_biubiu_在线之家",
       "name": "🏠在线之家",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_xBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json",
-      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"      
+      "ext": "./json/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"      
     },
     {
       "key": "csp_xp_jLgyy",
       "name": "💎蓝光影院",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_xBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.json",
-      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"      
+      "ext": "./json/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.json"      
     },
     {
       "key": "干饭影视",
       "name": "🍚干饭影视",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_xBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/干饭影视.json",
-      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"
+      "ext": "./json/干饭影视.json"
     },
     {
       "key": "口袋影院",
       "name": "👝口袋影院",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_xBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/%E5%8F%A3%E8%A2%8B%E5%BD%B1%E9%99%A2.json",
-      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"
+      "ext": "./json/%E5%8F%A3%E8%A2%8B%E5%BD%B1%E9%99%A2.json"
     },
     {
       "key": "花猫影视",
       "name": "🐱花猫影视",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_xBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/%E8%8A%B1%E7%8C%AB%E5%BD%B1%E8%A7%86.json",
-      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"
+      "ext": "./json/%E8%8A%B1%E7%8C%AB%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "利奥影院",
@@ -1024,12 +1012,11 @@
       "key": "六度影视",
       "name": "🍨六度影视",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_xBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/%E5%85%AD%E5%BA%A6%E5%BD%B1%E8%A7%86.json",
-      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"
+      "ext": "./json/%E5%85%AD%E5%BA%A6%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "csp_biubiu_dadagui",
@@ -1039,96 +1026,87 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/%E8%BE%BE%E8%BE%BE%E9%BE%9F.json",
-      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"      
+      "ext": "./json/%E8%BE%BE%E8%BE%BE%E9%BE%9F.json"    
     },
     {
-      "key": "csp_XBiubiu_TVB云播",
+      "key": "csp_xBPQ_TVB云播",
       "name": "🌤TVB云播",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_xBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/tvb%E4%BA%91%E6%92%AD.json",
-      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"      
+      "ext": "./json/tvb%E4%BA%91%E6%92%AD.json"      
     },
     {
       "key": "COKEMV",
       "name": "🥮COKEMV",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_xBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/COKEMV.json",
-      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"      
+      "ext": "./json/COKEMV.json"     
     },
     {
       "key": "Auete影视",
       "name": "🍬Auete影视",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_xBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/Auete%E5%BD%B1%E8%A7%86.json",
-      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"      
+      "ext": "./json/Auete%E5%BD%B1%E8%A7%86.json"    
     },
     {
       "key": "人人影视",
       "name": "👫人人影视",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_xBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.json",
-      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"      
+      "ext": "./json/%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.json"     
     },
     {
       "key": "三九影视",
       "name": "🐐三九影视",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_xBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/%E4%B8%89%E4%B9%9D%E5%BD%B1%E8%A7%86.json",
-      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"      
+      "ext": "./json/%E4%B8%89%E4%B9%9D%E5%BD%B1%E8%A7%86.json"    
     },
     {
-      "key": "csp_XBiubiu_金眼影视",
+      "key": "csp_xBPQ_金眼影视",
       "name": "🌟金眼影视",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_xBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/%E9%87%91%E7%9C%BC%E5%BD%B1%E8%A7%86.json",
-      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"
+      "ext": "./json/%E9%87%91%E7%9C%BC%E5%BD%B1%E8%A7%86.json"
     },
     {
-      "key": "csp_XBiubiu_Nike影视",
+      "key": "csp_xBPQ_Nike影视",
       "name": "🌹Nike影视",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_xBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/Nike%E5%BD%B1%E8%A7%86.json",
-      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"      
+      "ext": "./json/Nike%E5%BD%B1%E8%A7%86.json"    
     },
     {
       "key": "去看动漫",
       "name": "🎊去看动漫",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_xBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/%E5%8E%BB%E7%9C%8B%E5%8A%A8%E6%BC%AB.json",
-      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"      
+      "ext": "./json/%E5%8E%BB%E7%9C%8B%E5%8A%A8%E6%BC%AB.json"    
     },
     {
       "key": "动漫直链",
@@ -1144,12 +1122,11 @@
       "key": "csp_biubiu_风车动漫",
       "name": "🍭风车动漫",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_xBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/%E9%A3%8E%E8%BD%A6%E5%8A%A8%E6%BC%AB.json",
-      "jar":"./jar/XBiu.jar;md5;C1F7F674E37A33CCE4DC046C59F97B2F"
+      "ext": "./json/%E9%A3%8E%E8%BD%A6%E5%8A%A8%E6%BC%AB.json"
     },
     {
       "key": "csp_xpath___动漫巴士",
@@ -1506,5 +1483,5 @@
         "cms.qdwght.com"
   ],
   "wallpaper": "https://yydsys.top/bg.php",
-  "spider":"./jar/duo1217.jar;md5;8F2DADECEDE0E5076BADEB707B7BDD9B"
+  "spider":"./jar/duo.jar;md5;11BCFAC75297422FEA0E74559F3060BB"
 }
