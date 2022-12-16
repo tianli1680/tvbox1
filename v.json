@@ -129,13 +129,33 @@
       },
     {
       "key":"csp_Lgyy",
-      "name":"🌀voflix",
+      "name":"🌀voflix(SP)",
       "type":3,
       "api":"csp_Lgyy",
       "searchable":1,
       "quickSearch":1,
       "filterable":1
-      },
+    },
+    {
+      "key": "csp_biubiu_voflix",
+      "name": "🌀voflix(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/voflix.json"
+    },
+    {
+      "key":"csp_xBPQ_秋霞",
+      "name":"🌈秋霞影视",
+      "type":3,
+      "api":"csp_xBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"./json/qiuxia.json"
+    },
    {
       "key": "csp_Nmys",
       "name": "👨‍🌾农民影视",
@@ -501,26 +521,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-     {
-      "key": "csp_biubiu_voflix",
-      "name": "🌀voflix(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/voflix.json"
-    },
-    {
-      "key":"csp_xBPQ_秋霞",
-      "name":"🌈秋霞影视",
-      "type":3,
-      "api":"csp_xBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0,
-      "ext":"./json/qiuxia.json"
     },
     {
       "key": "csp_Anime1",
