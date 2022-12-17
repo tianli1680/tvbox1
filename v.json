@@ -21,6 +21,15 @@
     "quickSearch":0,
     "filterable":0
     },
+     {
+      "key": "T4直播转点播",
+      "name": "📺︎电视点播",
+      "type": 4,
+      "api": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key":"csp_xBPQ_dszb",
       "name":"🖥️电视直播",
