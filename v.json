@@ -12,11 +12,12 @@
       "quickSearch": 0,
       "filterable": 0
       },
+      🍀豆瓣热榜(备用)
    {
-    "key":"douban",
+    "key":"T4_douban",
     "name":"🍀豆瓣热榜(备用)",
     "type":4,
-    "api":"http://t4.ganggang.live:3812/vod",
+    "api":"https://t4.饭太硬.ml/vod",
     "searchable":0,
     "quickSearch":0,
     "filterable":0
