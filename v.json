@@ -138,14 +138,14 @@
       "ext":"./json/naifei.json"
       },
       {
-        "key":"csp_XBPQ_555电影",
-        "name":"🐙三五电影",
+        "key":"csp_xBPQ_555电影",
+        "name":"👣三五电影",
         "type":3,
         "api":"csp_xBPQ",
         "searchable":1,
         "quickSearch":1,
         "filterable":0,
-        "ext":"https://tvbox.cainisi.cf/xBPQ/555电影.json"
+        "ext":"./json/555xb.json"
       },
     {
       "key":"csp_Lgyy",
