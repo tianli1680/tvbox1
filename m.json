@@ -21,6 +21,15 @@
     "quickSearch":0,
     "filterable":0
     },
+     {
+      "key": "T4直播转点播",
+      "name": "📺︎电视点播",
+      "type": 4,
+      "api": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key":"csp_xBPQ_dszb",
       "name":"🖥️电视直播",
@@ -120,13 +129,23 @@
       "filterable": 1
     },
     {
-      "key":"csp_biubiu_鸭奈飞",
+      "key":"csp_xBPQ_鸭奈飞",
       "name":"🦆鸭奈飞",
       "type":3,
       "api":"csp_xBPQ",
       "searchable":1,
       "quickSearch":1,
       "ext":"./json/naifei.json"
+      },
+      {
+        "key":"csp_xBPQ_555电影",
+        "name":"🐾三五电影",
+        "type":3,
+        "api":"csp_xBPQ",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":0,
+        "ext":"./json/555xb.json"
       },
     {
       "key":"csp_Lgyy",
