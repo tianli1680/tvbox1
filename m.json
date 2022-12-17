@@ -244,7 +244,7 @@
     },
     {
       "key": "py_cctv",
-      "name": "❤️爱央视PY",
+      "name": "❤️爱央视(PY)",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -254,7 +254,7 @@
     },
     {
       "key": "csp_xBPQ_真不卡",
-      "name": "🚀真不卡XB",
+      "name": "🚀真不卡(XB)",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 1,
