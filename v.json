@@ -815,7 +815,8 @@
       "api": "csp_Yj1211",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 0,
+      "jar":"./jar/zb1205.jar;md5;9A18D106DF75839FF82B6B87634FFEE9"
     },
     {
 		"key": "py_huya",
