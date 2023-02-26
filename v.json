@@ -4,7 +4,7 @@
   "sites": [
     {
       "key":"js豆瓣",
-      "name":"🍀公众号:多多应用汇，此接口已停用",
+      "name":"🍀公众号:多多应用汇，此接口已于11月中旬停用",
       "type":3,
       "api":"https://gitlab.com/duomv/duo/-/raw/main/js/yingmo.js",
       "ext":"https://gitlab.com/duomv/duo/-/raw/main/js/douban.js",
